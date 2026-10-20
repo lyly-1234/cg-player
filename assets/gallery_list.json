@@ -15,6 +15,7 @@
   },
   {
     "galleryId": "014901",
+    "name": "决意铸剑 葛卜",
     "type": 0,
     "isJp": false,
     "scripts": [
@@ -28,6 +29,7 @@
   },
   {
     "galleryId": "311401",
+    "name": "苍焰猎人 拉托马",
     "type": 1,
     "isJp": false,
     "scripts": [
