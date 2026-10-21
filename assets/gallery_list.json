@@ -1,5 +1,17 @@
 [
   {
+    "galleryId": "313901",
+    "name": "多德盖亚斯",
+    "type": 0,
+    "isJp": true,
+    "scripts": [
+      "script_cg1.txt"
+    ],
+    "isSound": [
+      false
+    ]
+  },
+  {
     "galleryId": "018401",
     "name": "梵昇",
     "type": 0,
@@ -15,6 +27,7 @@
   },
   {
     "galleryId": "014901",
+    "name": "决意祷剑 葛卜",
     "type": 0,
     "isJp": false,
     "scripts": [
@@ -28,6 +41,7 @@
   },
   {
     "galleryId": "311401",
+    "name": "苍焰猎人 拉托马",
     "type": 1,
     "isJp": false,
     "scripts": [

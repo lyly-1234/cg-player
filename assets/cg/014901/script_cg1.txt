@@ -1,4 +1,4 @@
-name,
+﻿name,
 stopbgm,,,,,,,,,,,
 fadeinblack,0,,,,,,,,,,
 bg,adv/image/bg/bg000302.jpg,0,,,,,,,,
@@ -10,12 +10,12 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>書の世界でリノフリオを退けた後\nガブはレマイアスと共に、\n旅に出ることを決めた。</size>,,,,,,,,,
+msg,0,<size=18>在书的世界里击败里诺弗里奥后，葛卜与雷迈斯一同决定踏上旅途。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>負の感情に苛まれる人々を\n救済すべく、新たな道を\n模索し始めることにしたのだ。</size>,,,,,,,,,
+msg,0,<size=18>为了拯救那些被负面情绪折磨的人们，开始探索新的道路。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -24,15 +24,15 @@ anm,tint,syemieru,150_150_150,0.0001,0
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:005,player,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブと別の道を行く……\nそれがガブの決めたことなら\n応援するけど、\nやっぱり寂しいね。</size>,,,,,,,,,
+msg,0,<size=18>如果葛卜决定要走一条与我们不同的路……那我虽然会支持你，但果然还是觉得好寂寞啊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/101002/atlas/stand_b,body:007,syemieru,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>シュミエル</size>,
-msg,0,<size=18>そうだな、\nガブの優しさはいつでも\n私たちを照らしてくれた。</size>,,,,,,,,,
+name,<size=32>施米尔</size>,
+msg,0,<size=18>是啊，葛卜的温柔一直以来都照耀着我们。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -41,8 +41,8 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/100101/atlas/stand_b,body:001,hakuma,100,-50,0.4,0.5,,,,
 anm,tint,syemieru,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>ハクマ</size>,
-msg,0,<size=18>しんみりするのはわかるが、\n最後の夜だぞ。\nほら、料理の追加だ。\n今日は遠慮なく振舞うからな。</size>,,,,,,,,,
+name,<size=32>哈库玛</size>,
+msg,0,<size=18>我明白这种伤感的心情，但这可是最后一晚哦。来，加菜了。今天我会毫不吝啬地招待大家。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -50,7 +50,7 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.
 anm,tint,hakuma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>そうだね、\nありがとうハクマ。</size>,,,,,,,,,
+msg,0,<size=18>说得也是，谢谢你，哈库玛。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -61,7 +61,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ガブが旅立つ前日、\nせっかくだからと大宴会が開かれ\n夜が深まっても賑やかな\n声が響いている。</size>,,,,,,,,,
+msg,0,<size=18>在葛卜启程的前一天，大家特意举办了盛大的宴会，即便夜深了，热闹的声音依然回响着。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -76,9 +76,9 @@ imgconf,gabu2,gabu1,0,-600,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_01.mp3
-msg,1,<size=18>{USER}さぁ～ん！\nもっと僕と飲みましょうよぉ。</size>,,,,,,,,,
+msg,1,<size=18>{USER}！再陪我多喝一点嘛～</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -91,40 +91,40 @@ anm,tint,gabu,150_150_150,0.0001,0
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:002,player,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>うわ、ガブ！\nかなり飲んだみたいだね……。</size>,,,,,,,,,
+msg,0,<size=18>哇，葛卜！好像喝了不少呢……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:013,gabu,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_02.mp3
 shake,0.15,3,20,0,gabu
-msg,1,<size=18>はい！　美味しいお酒が\nたくさんあったので、\n飲みすぎちゃいました～。</size>,,,,,,,,,
+msg,1,<size=18>是！因为有好喝的酒还有很多很多，所以我有点喝过头了～</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>酔ったガブがすり寄り\n絡み酒をするが、\nいつもなら止める面々も\n今日ばかりはおとなしい。</size>,,,,,,,,,
+msg,0,<size=18>醉酒的葛卜靠过来纠缠着要喝酒，平时都会阻止大家的今天却格外安静。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:005,player,-100,-50,0.4,0,,,,
 name,<size=32>{USER}</size>,
 anm,jump,player,-100_-50_20_1,0.15,0
-msg,0,<size=18>ガブ、大丈夫？\n少し水飲んだ方が良いんじゃ？</size>,,,,,,,,,
+msg,0,<size=18>葛卜，没事吧？要不要稍微喝点水比较好？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_03.mp3
-msg,1,<size=18>いいんです、\n今は{USER}さんの\n隣にいたいんです。</size>,,,,,,,,,
+msg,1,<size=18>没关系，我现在只想待在{USER}身边。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -136,9 +136,9 @@ endwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:013,gabu,0,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_04.mp3
-msg,1,<size=18>……駄目ですか？</size>,,,,,,,,,
+msg,1,<size=18>……不可以吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -146,7 +146,7 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>駄目じゃないけど……。</size>,,,,,,,,,
+msg,0,<size=18>也不是不可以……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -158,14 +158,14 @@ spriteatlas,adv/image/character/500101/atlas/stand_a,body:000,oruto,100,-50,0.4,
 anm,tint,oruto,150_150_150,0.0001,0
 spriteatlas,adv/image/character/101002/atlas/stand_b,body:000,syemieru,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>シュミエル</size>,
-msg,0,<size=18>{USER}、\n今回の一件でガブは心身ともに\n疲れ果てていたはずだ。</size>,,,,,,,,,
+name,<size=32>施米尔</size>,
+msg,0,<size=18>{USER}，这次的事情让葛卜身心都疲惫不堪了吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/101002/atlas/stand_b,body:000,syemieru,-100,-50,0.4,0,,,,
-name,<size=32>シュミエル</size>,
-msg,0,<size=18>今夜はおまえがガブに\n寄り添ってやるといい。</size>,,,,,,,,,
+name,<size=32>施米尔</size>,
+msg,0,<size=18>今晚就由你去好好陪陪葛卜吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -173,8 +173,8 @@ clickwait,,,,,,,,,,,
 spriteatlas,adv/image/character/500101/atlas/stand_a,body:000,oruto,100,-50,0.4,0,,,,
 anm,tint,syemieru,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>オルトー</size>,
-msg,0,<size=18>シュミエルの言う通りじゃ。\nガブはエクスのように\n自分の心を素直に\n口にするようなたちでもない。</size>,,,,,,,,,
+name,<size=32>欧特</size>,
+msg,0,<size=18>正如施米尔所说。葛卜不像小剑剑那样，是个能坦率说出自己心意的人。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -183,8 +183,8 @@ clickwait,,,,,,,,,,,
 spriteatlas,adv/image/character/500101/atlas/stand_a,body:008,oruto,100,-50,0.4,0,,,,
 //anm,tint,hakuma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>オルトー</size>,
-msg,0,<size=18>こういう時こそ、\nおまえにありのままの気持ちを\n伝えたかったんじゃろう。</size>,,,,,,,,,
+name,<size=32>欧特</size>,
+msg,0,<size=18>正因如此这个时候，他大概是想向你传达真实的心意吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -193,8 +193,8 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/300001/atlas/stand_b,body:015,ekusu,-100,-50,0.4,0.5,,,,
 anm,tint,oruto,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>エクスカリバー</size>,
-msg,0,<size=18>マスター……\n私も思うところはありますが、\n今夜だけはすべてを\n見逃しましょう。</size>,,,,,,,,,
+name,<size=32>王者之剑</size>,
+msg,0,<size=18>主人……虽然我也有些想法，但就今晚这一次，我们就睁一只眼闭一只眼吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -209,8 +209,8 @@ spriteatlas,adv/image/character/300001/atlas/stand_b,body:012,ekusu2,0,0,0,0,,,,
 imgconf,ekusu2,ekusu1,0,-800,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>エクスカリバー</size>,
-msg,0,<size=18>ただし！\n今夜だけですよ！</size>,,,,,,,,,
+name,<size=32>王者之剑</size>,
+msg,0,<size=18>不过！仅限今晚哦！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -222,8 +222,8 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.
 anm,tint,player,150_150_150,0.0001,0
 spriteatlas,adv/image/character/100101/atlas/stand_b,body:001,hakuma,100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>ハクマ</size>,
-msg,0,<size=18>そういうことだ、\n{USER}。\nこっちの片付けはオレたちで\nやっとくよ。</size>,,,,,,,,,
+name,<size=32>哈库玛</size>,
+msg,0,<size=18>就是这样，{USER}。这边的收拾工作我们来处理就好。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -231,13 +231,13 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.
 anm,tint,hakuma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>みんな……うん、わかった。\nそれじゃあガブを\n休ませてくるよ。</size>,,,,,,,,,
+msg,0,<size=18>大家……嗯，我知道了。那我去让葛卜休息了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.4,0,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>部屋に行こう、ガブ。</size>,,,,,,,,,
+msg,0,<size=18>回房间去吧，葛卜。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -248,9 +248,9 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,100,-50,0.4,0.5,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_05.mp3
-msg,1,<size=18>はい、\n{USER}さぁん！</size>,,,,,,,,,
+msg,1,<size=18>好的，{USER}！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 anm,fade,player,0,0.2
@@ -262,9 +262,9 @@ endwait,
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:013,gabu1,0,-50,0.4,0.5,,,,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_06.mp3
-msg,1,<size=18>僕、本当は……\n{USER}さんの\n行く所ならどこだって……。</size>,,,,,,,,,
+msg,1,<size=18>其实我……只要是{USER}要去的地方，无论哪里我都……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 name,
@@ -291,7 +291,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>俯いてつぶやいた言葉は\n誰にも聞こえなかった。</size>,,,,,,,,,
+msg,0,<size=18>他低着头喃喃自语的话，谁也没有听见。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -326,13 +326,13 @@ anm,tint,gabu,150_150_150,0.0001,0
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>部屋に入ると\n宴会のにぎやかさも遠くなり、\n静けさがガブの足元から\n忍び寄ってくる。</size>,,,,,,,,,
+msg,0,<size=18>一进房间，宴会的喧闹声便远去，寂静从葛卜的脚边悄悄蔓延开来。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:001,player,-100,-50,0.4,0,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>それじゃガブ、\nオレは水を持ってくるよ。\n他に欲しいものある？</size>,,,,,,,,,
+msg,0,<size=18>那我先去拿水了，葛卜。还有其他想要的东西吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -349,16 +349,16 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,0,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_07.mp3
-msg,1,<size=18>{USER}さぁん……\n僕、僕……。</size>,,,,,,,,,
+msg,1,<size=18>{USER}……我、我……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>朝日が昇れば\n一時の別れが来る。</size>,,,,,,,,,
+msg,0,<size=18>当朝阳升起时，短暂的离别便将到来。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -378,22 +378,22 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ガブはもつれた足のまま、\n{USER}を\nベッドの上に押し倒し、\nその上に跨った。</size>,,,,,,,,,
+msg,0,<size=18>葛卜双腿交缠，将{USER}推倒在床上，随后跨坐了上去。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>………………。</size>,,,,,,,,,
+msg,0,<size=18>………………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>…………。</size>,,,,,,,,,
+msg,0,<size=18>…………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>……。</size>,,,,,,,,,
+msg,0,<size=18>……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -428,7 +428,7 @@ endwait,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブ!?　だ、大丈夫？</size>,,,,,,,,,
+msg,0,<size=18>葛卜！？你、你没事吧？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -441,9 +441,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_08.mp3
-msg,1,<size=18>心配しなくても大丈夫ですよぉ、\n僕はちゃんと起きてますぅ。</size>,,,,,,,,,
+msg,1,<size=18>不用担心，我没事哦，\n我可是清醒着的～</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -451,15 +451,15 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_09.mp3
-msg,1,<size=18>……でも、{USER}さんとこうやって\nお酒を飲んだりできるのも、しばらくないんだなって思うと……。</size>,,,,,,,,,
+msg,1,<size=18>……但是，想到像这样能和{USER}一起喝酒的时光，\n以后恐怕不会再有了……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_10.mp3
-msg,1,<size=18>ちょっと、寂しくなっちゃってぇ……。</size>,,,,,,,,,
+msg,1,<size=18>稍微，变得有点寂寞了……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -474,26 +474,26 @@ spriteoff,still1,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_11.mp3
-msg,1,<size=18>あれ、ごめんなさい……\n泣いちゃって……なんでだろう……。</size>,,,,,,,,,
+msg,1,<size=18>啊，对不起……\n竟然哭出来了……这是为什么呢……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブ……。</size>,,,,,,,,,
+msg,0,<size=18>葛卜……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_12.mp3
-msg,1,<size=18>おかしいですよね、もう会えないわけじゃないのに。\n会おうと思ったら、いつだって会えるのに……。</size>,,,,,,,,,
+msg,1,<size=18>真奇怪呢，明明并不是再也见不到了。\n只要想见，随时都能见面的……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_13.mp3
-msg,1,<size=18>でも、これだけは知ってほしいんです。</size>,,,,,,,,,
+msg,1,<size=18>但是，只希望你知道这一点。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -514,9 +514,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_14.mp3
-msg,1,<size=18>僕……{USER}さんと一緒に旅ができて、\n本当に嬉しいんです。</size>,,,,,,,,,
+msg,1,<size=18>我……能和{USER}一起旅行，\n真的非常开心。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -524,47 +524,47 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_15.mp3
-msg,1,<size=18>でもディクオンさんに問いかけられた時、本当は何のために\n旅してるんだろうって迷っちゃった自分がいたんです。</size>,,,,,,,,,
+msg,1,<size=18>可是当被迪克昂先生问起的时候，我确实有过迷茫，\n不知道自己究竟是为了什么而旅行。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_16.mp3
-msg,1,<size=18>みんな真っすぐで確かな理由があるのに、\n僕にはそれがないんじゃないかって。</size>,,,,,,,,,
+msg,1,<size=18>大家都有着明确坚定的理由，\n而我是不是没有那样的理由呢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_17.mp3
-msg,1,<size=18>心に一度湧き上がったこの気持ちを精一杯飲み込んで、\n進んできたんですけど……。</size>,,,,,,,,,
+msg,1,<size=18>我曾拼命咽下心中涌起的这份感情，\n一路前行……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>うん、伝えてくれてありがとう。オレはガブが中途半端な気持ちで\n一緒に旅してくれたなんて思ってないけど……。</size>,,,,,,,,,
+msg,0,<size=18>嗯，谢谢你告诉我。我并没有认为葛卜是怀着半途而废的心情和我一起旅行的……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブの悩みに気付けなくて……\n本当にごめんね。</size>,,,,,,,,,
+msg,0,<size=18>没能察觉到葛卜的烦恼……\n真的对不起。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_18.mp3
-msg,1,<size=18>違うんです、{USER}さん。\n決してあなたを責めたいわけじゃなく……むしろ逆で……。</size>,,,,,,,,,
+msg,1,<size=18>不是的，{USER}。\n我绝不是想责怪你……恰恰相反……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>えっ、それって……？</size>,,,,,,,,,
+msg,0,<size=18>诶，那是……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>口を開くものの、\nガブはその先を言いよどむ。</size>,,,,,,,,,
+msg,0,<size=18>刚想开口，\n葛卜却欲言又止。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -584,47 +584,47 @@ endwait,
 msgwin,on,
 endwait,
 name,
-msg,0,<size=18>代わりに上半身の防具を外して、\n誘うように微笑んだ。</size>,,,,,,,,,
+msg,0,<size=18>取而代之的是脱下了上半身的护甲，\n带着邀请般的微笑。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_19.mp3
-msg,1,<size=18>でも……離れる前に僕だけ気持ちを伝えちゃうなんて、\nズルいですよね。だからまだ内緒です。</size>,,,,,,,,,
+msg,1,<size=18>但是……在分别之前只有我把心意说出来，\n太狡猾了对吧。所以还是保密吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>あのー、ガブ？\nそ、その割にはなんでずっとオレの上にいるの？</size>,,,,,,,,,
+msg,0,<size=18>那个，葛卜？\n既、既然这么说，为什么一直压在我身上？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_20.mp3
-msg,1,<size=18>えへへ、{USER}さぁん。\nぼ、僕、酔っちゃいました～。</size>,,,,,,,,,
+msg,1,<size=18>嘿嘿，{USER}。\n我、我好像醉了～</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>いやいや!?　さっき酔い覚めてたっぽかったよ!?\n急になんでまたそんな泥酔みたいに!?</size>,,,,,,,,,
+msg,0,<size=18>不对吧！？刚才看起来明明已经清醒了！？\n怎么突然又像烂醉如泥一样了！？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_21.mp3
-msg,1,<size=18>明日になればきっと、今夜のことは忘れちゃいますからぁ。\n僕……酔っちゃうといつもこうなんですぅ。</size>,,,,,,,,,
+msg,1,<size=18>等到明天，今晚的事肯定就会忘得一干二净了。\n我……一喝醉总是这样～</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_22.mp3
-msg,1,<size=18>……だから今だけは、僕のものになってください。</size>,,,,,,,,,
+msg,1,<size=18>……所以，就现在这一刻，请成为我的吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_23.mp3
-msg,1,<size=18>これから見る夢が良いものになるように、\n僕に{USER}さんをたくさんください。</size>,,,,,,,,,
+msg,1,<size=18>为了让接下来做的梦变得美好，\n请多给我一些{USER}吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -638,7 +638,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>酔ったふりをしたまま、\nガブはふたり分の下着から一物を取り出した。</size>,,,,,,,,,
+msg,0,<size=18>假装醉酒的样子，\n葛卜从两人的内裤中取出了那话儿。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -661,47 +661,47 @@ spriteoff,still4,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_24.mp3
-msg,1,<size=18>えへへ、もうこんなになってるんです。</size>,,,,,,,,,
+msg,1,<size=18>嘿嘿，已经变成这样了哦。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_25.mp3
-msg,1,<size=18>さっきまで寂しかったのに、今はすごく貪欲で……\nみなさんの好意に甘えちゃおうかなって……。</size>,,,,,,,,,
+msg,1,<size=18>明明刚才还觉得寂寞，现在却变得非常贪婪……\n想着或许可以依赖一下大家的好意……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>が、ガブ……！\nすごくえっちだ……じゃなくて！</size>,,,,,,,,,
+msg,0,<size=18>不、葛卜……！\n太色气了……不对！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>えと、その……嫌じゃないし、\nオレはすっごく嬉しいんだけど！</size>,,,,,,,,,
+msg,0,<size=18>那个，那个……我不讨厌，\n而且超级开心的！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_26.mp3
-msg,1,<size=18>なら、駄目ですか？\n僕……明日には全部忘れちゃいますよ？</size>,,,,,,,,,
+msg,1,<size=18>那么，不行吗？\n我……明天就会把一切都忘记哦？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>でも今日だってあれだけ疲れて、\n明日からは長旅が始まるだろうし……。</size>,,,,,,,,,
+msg,0,<size=18>可是今天你已经那么累了，\n而且明天就要开始长途旅行了……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>オレとしたらガブの体に負担がかかるんじゃ……。</size>,,,,,,,,,
+msg,0,<size=18>我是担心这会给葛卜的身体带来负担……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_27.mp3
-msg,1,<size=18>それじゃあ僕が{USER}さんの上に跨ります。\nそれならいいですよね？</size>,,,,,,,,,
+msg,1,<size=18>那让我跨在{USER}身上吧。\n那样的话就可以了吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -715,7 +715,7 @@ endwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブは、それでいいの……？</size>,,,,,,,,,
+msg,0,<size=18>葛卜，真的可以吗……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -723,15 +723,15 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_28.mp3
-msg,1,<size=18>はい、今夜はふたりで素敵な夢が見たいんです。\n僕と{USER}さんだけの……。</size>,,,,,,,,,
+msg,1,<size=18>是的，今晚我想和两个人一起做个美梦。\n只属于我和{USER}的……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_29.mp3
-msg,1,<size=18>だから僕のことをこのまま突き上げてください。\nこの体勢なら、辛くないですから……挿れますね。</size>,,,,,,,,,
+msg,1,<size=18>所以就这样把我顶起来吧。\n这个姿势不会难受的……插进来了哦。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -750,31 +750,31 @@ spriteoff,still5,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_30.mp3
-msg,1,<size=18>あぁぁああっ!!\n{USER}さんの、すっごく、硬くて熱いっ……！</size>,,,,,,,,,
+msg,1,<size=18>啊啊啊啊啊！！\n{USER}的，好硬、好烫……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>っはぁ、ガブも……すごい、熱いよ……！\nこんなの蕩けちゃいそうだ……！</size>,,,,,,,,,
+msg,0,<size=18>哈啊，葛卜也……好烫，好厉害……！\n感觉快要融化了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_31.mp3
-msg,1,<size=18>ほら……{USER}さん、\n僕のこといっぱい突いてください、お願いします……！</size>,,,,,,,,,
+msg,1,<size=18>看吧……{USER}，\n请多多地插我，拜托了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_32.mp3
-msg,1,<size=18>今夜だけは、僕のわがまま、聞いてほしいんですっ！</size>,,,,,,,,,
+msg,1,<size=18>就今晚一次，请听听我的任性吧！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ガブはおねだりしながら腰を動かし、\n自らの中に強直をこすりつけていく。</size>,,,,,,,,,
+msg,0,<size=18>葛卜一边撒娇一边扭动腰肢，\n主动将硬挺之物在自己体内摩擦。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -788,34 +788,34 @@ endwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブ、ああっ！　すごくエッチだよ……！\nそれに気持ちいい……！</size>,,,,,,,,,
+msg,0,<size=18>葛卜，啊啊！好色气……！\n而且好舒服……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_33.mp3
-msg,1,<size=18>えへ、今夜は……僕も張り切っちゃってます！\nいっぱい、いっぱい、僕の奥に刻み付けてください！</size>,,,,,,,,,
+msg,1,<size=18>嘿，今晚……我也干劲十足！\n请多多地、多多地，刻在我的深处吧！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>っく、ああぁ気持ちいいっ……ガブ、ガブ……！</size>,,,,,,,,,
+msg,0,<size=18>呃，啊啊啊好舒服……葛卜、葛卜……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>わかったよ、オレ……\n全力でガブの事、気持ちよくしてみせるから……！</size>,,,,,,,,,
+msg,0,<size=18>知道了，我……\n一定会让葛卜感到无比舒服的……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>だから手、握っていい？</size>,,,,,,,,,
+msg,0,<size=18>所以，可以牵手吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_34.mp3
-msg,1,<size=18>……はいっ！</size>,,,,,,,,,
+msg,1,<size=18>……好的！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -837,29 +837,29 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>指を絡めた瞬間に、{USER}は\n力強くガブの奥を突きあげた。</size>,,,,,,,,,
+msg,0,<size=18>手指交缠的瞬间，{USER}\n用力地顶入了葛卜的深处。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_35.mp3
-msg,1,<size=18>んあああぁぁっ!?　すごい、あぁっ！\n{USER}さんの感じる、熱くて、すっごく奥までぇ！</size>,,,,,,,,,
+msg,1,<size=18>嗯啊啊啊啊啊！？好厉害，啊啊！\n{USER}感觉到的，好烫，好深……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブ……オレたちと離れ離れになっても……\nオレにとって、ガブはかけがえのない大切な存在だから！</size>,,,,,,,,,
+msg,0,<size=18>葛卜……即使我们要分离……\n对我来说，葛卜是无可替代的重要存在！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>今までも、これからも……\nずっとガブのこと、大好きだから！</size>,,,,,,,,,
+msg,0,<size=18>过去也好，未来也好……\n我一直最喜欢葛卜了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_36.mp3
-msg,1,<size=18>はい、すっごく嬉しいですっ！\n僕も……僕も、{USER}さんのことが……！</size>,,,,,,,,,
+msg,1,<size=18>是的，超级开心！\n我也……我也，最喜欢{USER}了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -872,9 +872,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_37.mp3
-msg,1,<size=18>ああぁぁっ！　駄目です、漏れちゃいます！\nこれは内緒！　内緒なんです！</size>,,,,,,,,,
+msg,1,<size=18>啊啊啊啊！不行了，要漏出来了！\n这是秘密！是秘密哦！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -882,20 +882,20 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_38.mp3
-msg,1,<size=18>言っちゃったら僕、すごく、んうぅ！\nわがままになっちゃいます！　あっ！</size>,,,,,,,,,
+msg,1,<size=18>要是说出来的话，我就，嗯呜！\n会变得很任性的！啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_39.mp3
-msg,1,<size=18>今だって、もっと欲しいって、思ってるのに！\n{USER}さんの、ずっと、ずっと！</size>,,,,,,,,,
+msg,1,<size=18>明明现在，还想要更多！\n{USER}的，一直、一直！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>わかった、聞かないよ！\nでもごめん、ガブ、オレもうイきそう……！</size>,,,,,,,,,
+msg,0,<size=18>知道了，我不问！\n但是抱歉，葛卜，我快射了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -917,19 +917,19 @@ endwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブの中に出していい……!?\nっぐぁ、駄目だ、イきそう……イく、イく……！</size>,,,,,,,,,
+msg,0,<size=18>可以在葛卜里面射出来……！？\n呃啊，不行了，要射了……要射了、要射了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_40.mp3
-msg,1,<size=18>{USER}さん！\n{USER}さぁん！</size>,,,,,,,,,
+msg,1,<size=18>{USER}！\n{USER}！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_41.mp3
-msg,1,<size=18>僕も、僕もっ……！</size>,,,,,,,,,
+msg,1,<size=18>我也要、我也要……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -943,7 +943,7 @@ endwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>イくううぅっ!!</size>,,,,,,,,,
+msg,0,<size=18>要射了呜呜呜！！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -968,14 +968,14 @@ spriteoff,still8,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_42.mp3
-msg,1,<size=18>入ってます！　{USER}さんの濃いのが！\nたくさん！　ああっ！　熱いですっ！</size>,,,,,,,,,
+msg,1,<size=18>进来了！{USER}的浓稠液体！\n好多！啊啊！好烫！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,<size=32>{USER}</size>,
-msg,0,<size=18>すごいよガブ……エッチでかわいい……！\n止まんない……！</size>,,,,,,,,,
+msg,0,<size=18>好厉害啊葛卜……又色气又可爱……！\n停不下来……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -990,9 +990,9 @@ spriteoff,still9,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_43.mp3
-msg,1,<size=18>僕も、イきます……\nんああああっ!!</size>,,,,,,,,,
+msg,1,<size=18>我也要……高潮了……\n嗯啊啊啊啊啊！！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1013,9 +1013,9 @@ spriteoff,still10,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_44.mp3
-msg,1,<size=18>気持ちいいです……すごい、止まんな……ああぁぁっ！</size>,,,,,,,,,
+msg,1,<size=18>好舒服……好厉害，停不下来……啊啊啊啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1030,12 +1030,12 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ふたりは絶頂を噛み締めて、\n白濁を大量に打ち上げる。</size>,,,,,,,,,
+msg,0,<size=18>两人紧咬高潮的余韵，\n喷涌出大量的白浊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>しばらくして、ようやく落ち着き始めたふたりは、\n自然と互いを労わるように身体を拭き、服に着替えた。</size>,,,,,,,,,
+msg,0,<size=18>过了一阵子，终于平静下来的两人，\n自然地互相擦拭身体，换上了衣服。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1078,7 +1078,7 @@ anm,tint,gabu,150_150_150,0.0001,0
 spriteatlas,adv/image/character/100091/atlas/stand_b,body:018,player,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>ガブ……どうだった？\n気持ちよくなってもらえた……？</size>,,,,,,,,,
+msg,0,<size=18>葛卜……怎么样？\n让你感到舒服了吗……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1095,9 +1095,9 @@ clickwait,,,,,,,,,,,
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:006,gabu,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_45.mp3
-msg,1,<size=18>はい。\nすっごく気持ちよかったです。\nあの……\nさっきのことなんですけど……。</size>,,,,,,,,,
+msg,1,<size=18>嗯。超级舒服呢。\n那个……\n是关于刚才的事……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1105,16 +1105,16 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:007,player,-100,-50,0.
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>さっきのことって……？</size>,,,,,,,,,
+msg,0,<size=18>刚才的事是指……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:006,gabu,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_46.mp3
-msg,1,<size=18>やっぱり僕、明日になっても\n覚えてたいなって……。\nだって、こんなに\n気持ちよかったんですから……。</size>,,,,,,,,,
+msg,1,<size=18>果然，就算到了明天\n我也想记住呢……\n毕竟，那样\n太舒服了……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1122,16 +1122,16 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:000,player,-100,-50,0.
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>オレもだよ。\nだからさ……酔ってたから、\n忘れちゃうなんて、\n無しにしよう。</size>,,,,,,,,,
+msg,0,<size=18>我也是。\n所以啊……因为喝醉了\n就忘掉什么的\n还是算了吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,100,-50,0.4,0,,,,
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_47.mp3
-msg,1,<size=18>はい、えへへ……\n僕、今夜の事、\nずっとずっと覚えてますね。</size>,,,,,,,,,
+msg,1,<size=18>嗯，嘿嘿……\n今晚的事，\n我会一直一直记得的。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1139,19 +1139,19 @@ spriteatlas,adv/image/character/100091/atlas/stand_b,body:008,player,-100,-50,0.
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>{USER}</size>,
-msg,0,<size=18>うん、オレも……。</size>,,,,,,,,,
+msg,0,<size=18>嗯，我也是……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,player,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>酔いと疲れに襲われて、\n{USER}の意識は船をこぐ。</size>,,,,,,,,,
+msg,0,<size=18>被醉意和疲惫侵袭，\n{USER}的意识开始摇曳。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>静かな寝息が立ち始めると、\nガブは嬉しそうに体を摺り寄せた。</size>,,,,,,,,,
+msg,0,<size=18>随着安静的鼾声响起，\n葛卜开心地蹭着身体靠了过去。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1167,23 +1167,23 @@ spriteoff,all,0.5
 endwait,
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:000,gabu,0,-50,0.4,0.5,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_48.mp3
-msg,1,<size=18>ありがとうございます、\n{USER}さん。</size>,,,,,,,,,
+msg,1,<size=18>谢谢你，\n{USER}。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:006,gabu,0,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_49.mp3
-msg,1,<size=18>でも、ズルいですよ……\n自分だけ言っちゃうなんて。</size>,,,,,,,,,
+msg,1,<size=18>不过，这样很狡猾哦……\n只有你自己说出来。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,0,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_50.mp3
-msg,1,<size=18>えへへ、でも今なら\n{USER}さんも\n聞こえないし、\n言ってもいいかもしれませんね。</size>,,,,,,,,,
+msg,1,<size=18>嘿嘿，不过现在的话\n{USER}也\n听不见，\n或许说出来也没关系呢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1200,20 +1200,20 @@ wait,0.2
 endwait,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_51.mp3
-msg,1,<size=18>おやすみなさい、\n{USER}さん。\nいい夢を。</size>,,,,,,,,,
+msg,1,<size=18>晚安，\n{USER}。\n做个好梦。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_01_52.mp3
-msg,1,<size=18>……僕も大好きですよ。</size>,,,,,,,,,
+msg,1,<size=18>……我也最喜欢你了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ガブは柔らかく微笑むと、\n{USER}の隣で、\n瞼を閉じるのであった。</size>,,,,,,,,,
+msg,0,<size=18>葛卜温柔地微笑着，\n在{USER}的身边，\n闭上了双眼。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1226,3 +1226,4 @@ endwait
 bgoff,1.0
 stopbgm
 endwait
+

@@ -1,4 +1,4 @@
-name,
+﻿name,
 stopbgm,,,,,,,,,,,
 fadeinblack,0,,,,,,,,,,
 bg,adv/image/bg/bg003002.jpg,0,,,,,,,,
@@ -8,12 +8,12 @@ endwait,,,,,,,,,,,
 playbgm,/adv/sound/bgm/bgm_126.mp3,0,
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>ガブはレマイアスと\n未だハシサラームの呪縛に囚われ\n苦しむ人々を改心させるべく、\n旅を続けていた。</size>,,,,,,,,,
+msg,0,<size=18>葛卜与雷迈斯为了感化仍受哈西萨拉姆诅咒束缚、正遭受苦难的人们，继续着旅途。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>その途中に宿泊した宿で\nガブは浮かない顔で\nレマイアスに話を切り出した。</size>,,,,,,,,,
+msg,0,<size=18>在途中投宿的旅馆里，葛卜面带愁容，向雷迈斯开口谈起了这件事。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -21,154 +21,154 @@ spriteatlas,adv/image/character/100701/atlas/stand_b,body:015,remai,100,-50,0.4,
 anm,tint,remai,150_150_150,0.0001,0
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_01.mp3
-msg,1,<size=18>やはり……僕はまだ、\nディクオンさんから授かった力を\n十全に扱えないようです。</size>,,,,,,,,,
+msg,1,<size=18>果然……我还是无法完全驾驭从迪克昂那里获得的力量。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_02.mp3
-msg,1,<size=18>それができれば、\nあんなことには……！</size>,,,,,,,,,
+msg,1,<size=18>若能办到的话，就不会发生那种事了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:015,remai,100,-50,0.4,0,,,,
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ガブ……。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>葛卜……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>宿に泊まる前、説得しようとした\nハシサラームに抵抗され、\nふたりは戦いを余儀なくされた。</size>,,,,,,,,,
+msg,0,<size=18>在投宿之前，试图说服哈西萨拉姆时遭到反抗，两人被迫陷入了战斗。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>しかも、そこに偶然\nリジェクテッドが現れ、\nハシサラームの何人かが\n大怪我を負ってしまったのだ。</size>,,,,,,,,,
+msg,0,<size=18>而且，当时偶然出现的被棄者，导致哈西萨拉姆的数人受了重伤。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:019,remai,100,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>自分を責める必要はない。\n……無論、兄弟たちが目の前で\n傷つけられたのは\n私も胸が張り裂ける思いだった。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>没必要责怪自己。……当然，看着兄弟们在眼前受伤，我也心痛欲裂。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:013,remai,100,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>だが、だからといって、\nおまえだけの責任ではない。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>但是，即便如此，这也不是你一个人的责任。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:014,remai,100,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>一緒に背負うというのは\nそういうことだろう？</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>“共同承担”不就是这个意思吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_03.mp3
-msg,1,<size=18>ありがとうございます、\nレマイアスさん……。</size>,,,,,,,,,
+msg,1,<size=18>谢谢您，雷迈斯先生……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:010,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_04.mp3
-msg,1,<size=18>みなさんの命に\n別状がなかったことが、\n唯一の救いでした。</size>,,,,,,,,,
+msg,1,<size=18>大家的性命都无大碍，这是唯一的慰藉。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:010,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_05.mp3
-msg,1,<size=18>ただ……単純な戦闘ではなく\n今回のような奇襲を受けた場合、\n今の実力では、次も必ず皆さんを\n守り切れるとは限りません。</size>,,,,,,,,,
+msg,1,<size=18>只是……如果遭遇像这次这样的奇袭，而非单纯的正面战斗，以我目前的能力，下次未必能保护好大家。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_06.mp3
 shake,0.1,2,10,0,gabu
-msg,1,<size=18>そのためには、やはり……！</size>,,,,,,,,,
+msg,1,<size=18>为此，果然还是……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:013,remai,100,-50,0.4,0,,,,
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
+name,<size=32>雷迈斯</size>,
 //anm,jump,remai,100_-50_30_2,0.3,0
-msg,0,<size=18>そう焦るな、ガブ。\nおまえの気持ちは\n痛いほどわかる。</size>,,,,,,,,,
+msg,0,<size=18>别那么焦急，葛卜。你的心情，我痛彻心扉地理解。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:015,remai,100,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>だが、きっかけもなしに\n闇雲に行動するのは、\nあまりにも危険が過ぎる。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>但是，毫无缘由地盲目行动，实在太过危险。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:000,gabu,-100,-50,0.4,0,,,,
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_07.mp3
-msg,1,<size=18>そうですね……なので\n僕も少し考えがあるんです。</size>,,,,,,,,,
+msg,1,<size=18>是啊……所以我也有一些想法。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_08.mp3
-msg,1,<size=18>でも、あの……。</size>,,,,,,,,,
+msg,1,<size=18>可是，那个……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:013,remai,100,-50,0.4,0,,,,
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>どうした、ガブ。\n書の世界で手にした\n新たな力を使いこなすために、\n何か考えがあるのだろう？</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>怎么了，葛卜。是为了掌握在书之世界中获得的新力量，有什么想法吧？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_09.mp3
-msg,1,<size=18>はい……その、\n確証は無いんですけど、\nこれまでの旅路を\n振り返ってみたんです。</size>,,,,,,,,,
+msg,1,<size=18>是的……那个，虽然还没有确凿的证据，但我回顾了一下至今的旅程。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:002,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_10.mp3
-msg,1,<size=18>どうすれば膨大な神力を、\nきちんとコントロールして\n発揮できるのか。</size>,,,,,,,,,
+msg,1,<size=18>究竟如何才能妥善控制并发挥那庞大的神力。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:010,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_11.mp3
-msg,1,<size=18>{USER}さんと\n結界を張った時の事や……</size>,,,,,,,,,
+msg,1,<size=18>{USER}展开结界时的事情，以及……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:010,gabu,-100,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_12.mp3
-msg,1,<size=18>先日レマイアスさんと書の世界の\n崩壊を防いだ時の事を\n思い出していて……。</size>,,,,,,,,,
+msg,1,<size=18>前几天和雷迈斯先生一起阻止书之世界崩溃时的事情，都在脑海中浮现……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -183,8 +183,8 @@ spriteatlas,adv/image/character/100701/atlas/stand_b,body:016,remai2,0,0,0,0,,,,
 imgconf,remai2,remai1,0,-780,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>……ま、待て。\nそれはつまり……。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>……等、等等。也就是说……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -196,26 +196,26 @@ spriteatlas,adv/image/character/100701/atlas/stand_b,body:016,remai,100,-50,0.4,
 anm,tint,remai,150_150_150,0.0001,0
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:000,gabu,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_13.mp3
-msg,1,<size=18>……きっかけにはなると\n思いませんか？</size>,,,,,,,,,
+msg,1,<size=18>……难道不会成为契机吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:016,remai,100,-50,0.4,0,,,,
 anm,tint,gabu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>まさかガブ……おまえは……！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>难道说葛卜……你竟然……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:008,gabu,-100,-50,0.4,0,,,,
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_14.mp3
-msg,1,<size=18>レマイアスさん……\nお願いします。</size>,,,,,,,,,
+msg,1,<size=18>雷迈斯先生……拜托了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -233,22 +233,22 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>赤らんだ顔のまま、\nガブはそっとレマイアスに\n身を寄せた。</size>,,,,,,,,,
+msg,0,<size=18>满脸通红的葛卜，轻轻地向雷迈斯靠了过去。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>………………。</size>,,,,,,,,,
+msg,0,<size=18>………………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>…………。</size>,,,,,,,,,
+msg,0,<size=18>…………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>……。</size>,,,,,,,,,
+msg,0,<size=18>……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -281,25 +281,25 @@ wait,0.2
 endwait,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_15.mp3
-msg,1,<size=18>駄目ならあの、全然、いいんですけど……。\nレマイアスさんも今日はお疲れでしょうし。</size>,,,,,,,,,
+msg,1,<size=18>如果不行的话，也完全没关系……\n雷迈斯先生今天也累了吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>駄目というわけではないが……\nおまえとすると、私はずいぶん甘えてしまう。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>倒不是说不行……\n但对你而言，我会显得太依赖你了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>前もかなり荒々しく抱いただろうに、\nそれでもいいと言うのか。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>上次可是相当粗暴地抱了你吧，\n即便如此也可以吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_16.mp3
-msg,1,<size=18>何度でも言いますよ、僕が望んだことですから。\nだからレマイアスさん……。</size>,,,,,,,,,
+msg,1,<size=18>不论说多少次都一样，因为这是我希望的。\n所以雷迈斯先生……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -312,9 +312,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_17.mp3
-msg,1,<size=18>僕とエッチしてくれませんか……？</size>,,,,,,,,,
+msg,1,<size=18>可以和我做爱吗……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -323,27 +323,27 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>少し沈黙が下り、レマイアスは目をしばたたいて\n赤ら顔でもじもじとするガブを見つめた。</size>,,,,,,,,,
+msg,0,<size=18>沉默片刻降临，雷迈斯眨了眨眼，\n注视着满脸通红、局促不安的葛卜。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>正直……また私は自分を抑えられる気がしない。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>老实说……我觉得自己恐怕无法再克制了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>だが、行為をすることで何かが起こるかもしれないと、\n期待するおまえの気持ちはわかる。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>不过，我明白你期待通过行为\n或许会发生某种事情的心情。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>だから、ガブ……。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>所以，葛卜……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>レマイアスはガブの考えを受け止め、\n見つめながら優しく抱きしめた。</size>,,,,,,,,,
+msg,0,<size=18>雷迈斯接受了葛卜的想法，\n一边注视着他，一边温柔地拥抱了他。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -362,9 +362,9 @@ spriteoff,still1,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_18.mp3
-msg,1,<size=18>レマイアスさん……。</size>,,,,,,,,,
+msg,1,<size=18>雷迈斯先生……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -378,13 +378,13 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>腕に収まったガブは顔を近づけ、\nレマイアスの口を奪う。</size>,,,,,,,,,
+msg,0,<size=18>被拥入怀中的葛卜凑近脸庞，\n夺走了雷迈斯的唇。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_19.mp3
-msg,1,<size=18>んぅ……はぁ、レマイアスさん……\n舌、入れてください……。</size>,,,,,,,,,
+msg,1,<size=18>嗯唔……哈啊，雷迈斯先生……\n请伸进舌头……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -397,47 +397,47 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>……まさかおまえがこんな積極的だとは。\n少々驚いている。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>……没想到你会如此主动。\n让我有些惊讶。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_20.mp3
-msg,1,<size=18>僕だって、いつもレマイアスさんに任せきりじゃないんです。\nふぅ、自分から誘ったんですから、頑張りますよ……！</size>,,,,,,,,,
+msg,1,<size=18>我也不是每次都完全依赖雷迈斯先生的。\n呼，既然是我自己主动邀请的，我会加油的……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_21.mp3
-msg,1,<size=18>それに、レマイアスさん、いつも僕のこと\n大事にしすぎてくれるんです……。</size>,,,,,,,,,
+msg,1,<size=18>而且，雷迈斯先生，总是对我\n关怀备至……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_22.mp3
-msg,1,<size=18>嬉しいですけど、こういう時くらいは\n僕もやるんだってところ、見せちゃいますっ！</size>,,,,,,,,,
+msg,1,<size=18>虽然很开心，但至少在这种时候，\n我也想让你看看我也能做到的样子！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ふふ、そうか。\nこれでも前よりは寄りかかっているつもりなのだがな。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>呵呵，是吗。\n即便如此，我也觉得自己比之前更依赖你了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>背伸びしてリードしようとするガブに、\nレマイアスの口から微笑みが漏れる。</size>,,,,,,,,,
+msg,0,<size=18>看着踮起脚尖试图主导的葛卜，\n雷迈斯的嘴角露出了微笑。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>だが、こういうのはもっと自然体でつながる方がいいだろう。\n肩の力を抜け、ガブ。少しこちらに身体を寄せるぞ。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>不过，这种事还是更自然地连接比较好吧。\n放松肩膀，葛卜。稍微往我这边靠一点。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_23.mp3
-msg,1,<size=18>はい……お願いします。</size>,,,,,,,,,
+msg,1,<size=18>好的……拜托了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -453,13 +453,13 @@ endwait,
 msgwin,on,
 endwait,
 name,
-msg,0,<size=18>ふたりは裸体で向かい合うと、\nキスを中断して互いの瞳を覗き込んだ。</size>,,,,,,,,,
+msg,0,<size=18>两人赤裸相对，\n中断了亲吻，互相凝视着对方的瞳孔。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_24.mp3
-msg,1,<size=18>レマイアスさんの事、\nもっと……奥底まで感じたいんです。</size>,,,,,,,,,
+msg,1,<size=18>关于雷迈斯先生的事，\n我想……感受到更深处的东西。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -472,9 +472,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_25.mp3
-msg,1,<size=18>僕たちの繋がりが強まれば、\nきっと今まで以上の力が発揮できるはずなんです。</size>,,,,,,,,,
+msg,1,<size=18>如果我们之间的羁绊变强，\n一定能发挥出比以往更强的力量。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -482,18 +482,18 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>私も同じ気持ちだ、ガブ。\nだが……だからと言って、おまえが無理をする必要はない。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>我也有同样的心情，葛卜。\n但是……即便如此，你也不必勉强自己。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>背伸びするのは構わんが、義務感は不要だ。\n欲を言えば……もう少し安心して私に体を預けてほしい。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>逞强无所谓，但不需要把它当成义务。\n如果非要说的话……希望你能更安心地把身体交给我。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>微笑みを浮かべたまま、\nレマイアスはガブの体を持ち上げ始めた。</size>,,,,,,,,,
+msg,0,<size=18>雷迈斯带着微笑，\n开始将葛卜的身体托起。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -506,25 +506,25 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_26.mp3
-msg,1,<size=18>れ、レマイアスさんっ!?\nあの、こんな格好は……！</size>,,,,,,,,,
+msg,1,<size=18>雷、雷迈斯先生！？\n那个，这个姿势……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>心配するな……なるべくおまえに\n負担がかからないようにすると誓おう。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>别担心……我发誓会尽量\不让负担加在你身上。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_27.mp3
-msg,1,<size=18>だから僕は大丈夫なんですけど……\nでもそう言われると、やっぱり嬉しいです。</size>,,,,,,,,,
+msg,1,<size=18>虽然我没问题……\n但听到您这么说，果然还是很开心。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>照れたように笑うガブが頷くと、\nレマイアスの張り詰めた強直が突き入れられた。</size>,,,,,,,,,
+msg,0,<size=18>葛卜像害羞似的笑了笑并点头，\n雷迈斯紧绷的坚硬便刺了进去。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -545,63 +545,63 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_28.mp3
-msg,1,<size=18>んああああぁぁっ!!</size>,,,,,,,,,
+msg,1,<size=18>嗯啊啊啊啊啊！！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_29.mp3
-msg,1,<size=18>やっぱり、レマイアスさんの……大きいですっ！\nちょっと進むだけで、んぅ、衝撃がすごい……！</size>,,,,,,,,,
+msg,1,<size=18>果然，雷迈斯先生的……好大！\n只是稍微前进一点，嗯呜，冲击太强烈了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>大丈夫か？\nいったん止めた方がいいかもしれん。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>没事吗？\n或许先停下来比较好。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_30.mp3
-msg,1,<size=18>僕は大丈夫ですっ……なので、もっと……もっと深く、\n奥まで僕の中に挿れてください、レマイアスさん。</size>,,,,,,,,,
+msg,1,<size=18>我没事……所以，请再……再深一点，\n插进我的深处吧，雷迈斯先生。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>まったくおまえは、私を煽るのが本当に上手だ。\nあまり負担をかけたくないのだがな。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>真是个擅长煽动我的人啊。\n虽然我不想给你太多负担。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_31.mp3
-msg,1,<size=18>えへへ、僕は記憶を見ちゃいましたから……\nレマイアスさんは、ふぅ、激しいのが好きだって知ってますよ。</size>,,,,,,,,,
+msg,1,<size=18>嘿嘿，因为我看到了记忆……\n我知道雷迈斯先生，呼，喜欢激烈的。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ふふ、その言葉はそっくりそのまま返そうか。\nずいぶんいろんなことを経験してきたようだ。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>呵呵，那这句话就原封不动地还给你吧。\n看来你经历了不少事情呢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_32.mp3
-msg,1,<size=18>だったら、んぁ……遠慮なんていらないって、\nわかりますよね……？</size>,,,,,,,,,
+msg,1,<size=18>既然如此，嗯啊……那就没必要客气了，\n你明白的吧……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>確かにな。おまえが煽るから、\nもう止まりそうもない……！</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,
-msg,0,<size=18>レマイアスが力んで一物を硬くすると、\nガブは体内で感じ取る。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>确实如此。因为你在煽动我，\n感觉已经停不下来了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>まどろむような雰囲気を切り裂くように、\nふたりの結合部が甲高い破裂音を奏でた。</size>,,,,,,,,,
+msg,0,<size=18>雷迈斯用力让那物变得坚硬，\n葛卜在体内感受到了。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,
+msg,0,<size=18>仿佛撕裂了朦胧的氛围，\n两人的结合处发出了尖锐的破裂声。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -622,20 +622,20 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_33.mp3
-msg,1,<size=18>ひううぅっ！　あっ！　くる！\nレマイアスさんが、あうぅ！　んあああっ！</size>,,,,,,,,,
+msg,1,<size=18>咿呜呜呜！啊！来了！\n雷迈斯先生，啊呜！嗯啊啊啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_34.mp3
-msg,1,<size=18>荒々しくて、重くて……っぐぁぁ！\n僕の中に……すごく、響くっ！</size>,,,,,,,,,
+msg,1,<size=18>粗鲁又沉重……咕啊！\n在我的里面……震动得厉害！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>おまえには、くっ、大きすぎると思うのだが……\nよくもまあ……これほど飲み込むものだな……！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>对你来说，咳，可能太大了……\n竟然能……吞下这么多……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -648,37 +648,37 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>おまえの最奥に、当たっているのがわかるだろう……！\n全部入っているんだ、ガブ……！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>你应该能感觉到，已经顶到了你的最深处……！\n全都进去了，葛卜……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_35.mp3
-msg,1,<size=18>わかります！　僕のお腹の中全部、\nレマイアスさんで埋まってるのが！</size>,,,,,,,,,
+msg,1,<size=18>我明白了！我的肚子里全部，\n都被雷迈斯先生填满了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_36.mp3
-msg,1,<size=18>苦しいのに、気持ちよくってぇ……あうぅ！　ああっ！\nでっかいのが……入ってるって、わかりますっ！</size>,,,,,,,,,
+msg,1,<size=18>明明很痛苦，却又好舒服……啊呜！啊啊！\n那个巨大的东西……在里面，我知道！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_37.mp3
-msg,1,<size=18>それが中で動いてるんです！　僕のお腹を、ゴリゴリして！\n頭が、真っ白で、あうっ……もっと欲しくなっちゃいます！</size>,,,,,,,,,
+msg,1,<size=18>它正在里面动！摩擦着我的肚子！\n脑袋一片空白，啊呜……变得更想要了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>なら、限界を迎え……共に果てよう！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>那么，迎接极限……一起到达终点吧！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_38.mp3
-msg,1,<size=18>はい……レマイアスさん……！\n僕にもう一度、口を……！</size>,,,,,,,,,
+msg,1,<size=18>好的……雷迈斯先生……！\n请再吻我一次……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -692,18 +692,18 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ふたりがまたキスに耽ると、\n嬌声がくぐもった。</size>,,,,,,,,,
+msg,0,<size=18>两人再次沉溺于亲吻，\n娇喘声变得含糊不清。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ん、ガブ……出すぞ……！\nおまえの奥まですべて、私で満たされてくれっ！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>嗯，葛卜……要射了……！\n把你最深处全部，都让我填满吧！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_39.mp3
-msg,1,<size=18>早く欲しいです！　レマイアスさんの熱いの！\n僕にたくさん、たくさん注いでくださいっ！</size>,,,,,,,,,
+msg,1,<size=18>快点给我！雷迈斯先生的热流！\n请大量地、大量地注入给我！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -724,13 +724,13 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ぐお……ならイくぞっ！\n気張ってくれ、ガブ……！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>咕哦……那我射了！\n加油啊，葛卜……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ぐぅおおぉぉっ！</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>咕呜呜哦哦哦！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -751,9 +751,9 @@ spriteoff,still6,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_40.mp3
-msg,1,<size=18>ひううぅぅっ！\nお腹の中で奔流が、暴れてぇ……！</size>,,,,,,,,,
+msg,1,<size=18>咿呜呜呜呜！\n肚子里的奔流在肆虐……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -766,9 +766,9 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_41.mp3
-msg,1,<size=18>レマイアスさんが、お腹に染みこんでくる……！\nあ、僕の股間も熱くて……すごい……！</size>,,,,,,,,,
+msg,1,<size=18>雷迈斯先生的液体渗进了我的肚子……！\n啊，我的胯下也很热……好厉害……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -789,15 +789,15 @@ msgwin,on,
 endwait,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_42.mp3
-msg,1,<size=18>出します！\n根本に、すごい溜まって……もう、もうぅ！</size>,,,,,,,,,
+msg,1,<size=18>我要出来了！\n根部积了好多……不行了，不行了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_43.mp3
-msg,1,<size=18>あ、あ、あああぁぁっ！</size>,,,,,,,,,
+msg,1,<size=18>啊，啊，啊啊啊啊啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -818,19 +818,19 @@ spriteoff,still9,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_44.mp3
-msg,1,<size=18>出る、出ます……たくさん、こんなにぃっ！\nレマイアスさんに、かけちゃって……！</size>,,,,,,,,,
+msg,1,<size=18>出来了，出来了……好多，这么多！\n溅到雷迈斯先生身上了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>構わない、私は感じてくれて嬉しいと思っている。\nガブ、気持ちよかったぞ……。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>没关系，我很高兴你能有感觉。\n葛卜，很舒服吧……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>精液で汚れるのも構わず、\nふたりは互いの熱を感じるようにしばらく抱きしめあう。</size>,,,,,,,,,
+msg,0,<size=18>不顾被精液弄脏，\n两人为了感受彼此的温度，暂时相拥在一起。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -850,7 +850,7 @@ endwait,
 msgwin,on,
 endwait,
 name,
-msg,0,<size=18>夜を跨ぐふたりには\n満足そうな笑みが浮かんでいた。</size>,,,,,,,,,
+msg,0,<size=18>跨越夜晚的两人脸上，\n浮现出满足的笑容。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -889,7 +889,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>そして朝になると、\nガブはすがすがしい気持ちで\n目を覚ました。</size>,,,,,,,,,
+msg,0,<size=18>等到早晨来临，\n葛卜带着清爽的心情\睁开了眼睛。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -930,18 +930,18 @@ endwait,
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:010,gabu,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_45.mp3
-msg,1,<size=18>ん、おはようございます……\nレマイアスさん……。\n昨日はありがとうござ……。</size>,,,,,,,,,
+msg,1,<size=18>嗯，早上好……\n雷迈斯先生……\n昨天谢谢你……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:004,gabu,0,-50,0.4,0,,,,
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_46.mp3
 //anm,jump,gabu,0_-50_30_2,0.3,0
-msg,1,<size=18>あれ、いない……？\nレマイアスさん……？</size>,,,,,,,,,
+msg,1,<size=18>咦，不在……？\n雷迈斯先生……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -952,7 +952,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>周囲を見渡してレマイアスを\n探していると、\nちょうどその時\n部屋のドアが開いた。</size>,,,,,,,,,
+msg,0,<size=18>环顾四周寻找雷迈斯时，\n就在那一刻，\n房间的门开了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -970,14 +970,14 @@ endwait,,,,,,,,,,,
 anm,move,remai,0_-50,1,0
 endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:014,remai,0,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>ちょうどいい頃合い\nだったようだな。\nおはよう、ガブ。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>看来时机正好。\n早安，葛卜。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:014,remai,0,-50,0.4,0,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>食堂から朝食を持ってきた、\n席に座ってくれ。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>我从餐厅带早餐来了，\n请入座吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -987,16 +987,16 @@ endwait,,,,,,,,,,,
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:001,gabu,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_47.mp3
-msg,1,<size=18>ありがとうございます、\nさっそくいただいちゃいますね。\nお腹空いてたんです。</size>,,,,,,,,,
+msg,1,<size=18>谢谢你，\n那我就先开动了。\n肚子早就饿了呢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:006,gabu,0,-50,0.4,0,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_48.mp3
-msg,1,<size=18>あの……その前に、\nなんですけど。</size>,,,,,,,,,
+msg,1,<size=18>那个……在此之前，\n其实有件事想问。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1012,9 +1012,9 @@ imgconf,gabu2,gabu1,0,-600,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
 
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_49.mp3
-msg,1,<size=18>今、体に神力が\n満ちている気がするんです。</size>,,,,,,,,,
+msg,1,<size=18>现在感觉体内充满了神力。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1026,18 +1026,18 @@ spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,-100,-50,0.4,
 anm,tint,gabu,150_150_150,0.0001,0
 spriteatlas,adv/image/character/100701/atlas/stand_b,body:014,remai,100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レマイアス</size>,
-msg,0,<size=18>私も同じ感覚だ。\nより力が高まったように感じる。\n後はこれを実戦で活かすために、\n旅の中でさらに研鑽していこう。</size>,,,,,,,,,
+name,<size=32>雷迈斯</size>,
+msg,0,<size=18>我也有同样的感觉。\n力量似乎更强了。\n接下来为了在实战中发挥出来，\n我们旅途中继续磨练吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/014901/atlas/stand_b,body:012,gabu,-100,-50,0.4,0,,,,
 anm,tint,remai,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>決意を抱く祷剣 ガブ</size>,
+name,<size=32>决意祷剑 葛卜</size>,
 playvoice,1,adv/sound/voice/ad_0149_02_50.mp3
 anm,jump,gabu,-100_-50_20_1,0.15,0
-msg,1,<size=18>はいっ！\nうまくいってよかったです！</size>,,,,,,,,,
+msg,1,<size=18>好的！\n能顺利真是太好了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1048,7 +1048,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>朝食の席に着きながら、\nガブは笑顔で頷き返すのだった。</size>,,,,,,,,,
+msg,0,<size=18>坐在餐桌旁，\n葛卜微笑着点头回应。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1063,3 +1063,4 @@ endwait
 bgoff,1.0
 stopbgm
 endwait
+

@@ -1,4 +1,4 @@
-name,
+﻿name,
 stopbgm,,,,,,,,,,,
 fadeinblack,0,,,,,,,,,,
 bg,adv/image/bg/bg000402.jpg,0,,,,,,,,
@@ -10,12 +10,12 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ラトマはキュロネルを発ち、\nアポクリュオンの痕跡を探す\n旅をしていた。</size>,,,,,,,,,
+msg,0,<size=18>拉托马离开了丘罗涅尔，踏上寻找阿波克吕翁痕迹的旅程。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>だが、気持ちが逸っていたのか\n気付けば睡眠や食事を\nおろそかにしたまま\n何日もさまよってしまう。</size>,,,,,,,,,
+msg,0,<size=18>但不知是否因为心神不宁，他竟在不知不觉中忽略了睡眠与饮食，就这样漫游了好几天。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -49,20 +49,20 @@ anm,move,ratoma,0_-50,0.3,0
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>……あれ、\nオレなんでキュロネルに\n戻ってきたんだ……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>……咦，我怎么又回到丘罗涅尔了……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:004,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>無意識に来ちゃったのか……？\nはあ、あんだけ啖呵切って\n旅立ったってのになあ……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>是无意识地回来了吗……？哈，明明之前那么豪迈地放话要出发远行啊……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:010,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>オレはまだ帰れない……\nこのままじゃ……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>我还不能回去……照这样下去的话……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -74,7 +74,7 @@ spriteatlas,adv/image/character/310302/atlas/stand_c,body:000,leite,0,-50,0.4,0.
 anm,tint,leite,0_0_0,0.0001,0
 endwait,,,,,,,,,,,
 name,<size=32>？？？</size>,
-msg,0,<size=18>キミ、少しいいかい？\nその槍は……。</size>,,,,,,,,,
+msg,0,<size=18>你，方便一下吗？那把枪……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -84,9 +84,9 @@ endwait,,,,,,,,,,,
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:004,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_20_1,0.15,0
-msg,0,<size=18>誰だ、あんた？</size>,,,,,,,,,
+msg,0,<size=18>你是谁？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -101,8 +101,8 @@ wait,0.5
 endwait,,,,,,,,,,,
 anm,tint,leite,255_255_255,1,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>オレはレイテー、\n最近ここら辺に\n工房を構えたんだ。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>我是雷希，最近在这一带建立了工坊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -113,17 +113,17 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>レイテーは、\n情報を収集できる特別な槍から\n生まれた神器だ。</size>,,,,,,,,,
+msg,0,<size=18>雷希是由能搜集情报的特殊枪所诞生的神器。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>とある天樹十二聖と、その知人が\n辿る数奇な運命の因果により、\n以前は、別の人格を持っていたが\nギアンクとの戦いの後に喪失。</size>,,,,,,,,,
+msg,0,<size=18>因某位天树十二圣与其熟人所引发的奇特命运因果，他过去曾拥有另一个人格，但在与基昂克的战斗后遗失了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>今は他の人格や記憶を持たない、\n純粋な神器レイテーとして、\n様々な発明を行っていた。</size>,,,,,,,,,
+msg,0,<size=18>如今已不再拥有其他人格或记忆，作为纯粹的神器雷希，正进行着各种发明。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -131,39 +131,39 @@ spriteatlas,adv/image/character/311401/atlas/stand_c,body:004,ratoma,100,-50,0.4
 anm,tint,ratoma,150_150_150,0.0001,0
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:001,leite,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>いきなりで悪いのだけど、\nキミの持っているその槍を\n見せてもらっていいか？</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>突然这么问很抱歉，可以让我看看你拿的那把枪吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:002,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,100_-50_30_2,0.3,0
-msg,0,<size=18>それはいいけど……\nこの赤槍のことを知ってるのか？</size>,,,,,,,,,
+msg,0,<size=18>倒是没问题……你知道这把赤枪的事吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:002,leite,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>いや……決して、\nそういうわけでは無いんだが、\n不思議と馴染みを感じてな。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>不……绝对不是那个意思，只是不知为何感到十分熟悉。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:000,leite,-100,-50,0.4,0,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>何となく……\nオレの槍にも近いような……。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>总觉得……好像和我的枪很接近似的……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:000,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>えと、よく分からないけど……\nあんたの槍ってそれか？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>呃，虽然不太懂……你的枪就是那把吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 spriteoff,all,0.2
@@ -191,37 +191,37 @@ spriteatlas,adv/image/character/311401/atlas/stand_c,body:000,ratoma,100,-50,0.4
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:000,leite,-100,-50,0.4,0.5,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
+name,<size=32>雷希</size>,
 //anm,jump,leite,-100_-50_20_1,0.15,0
-msg,0,<size=18>あぁ、そうだよ。\nオレが覚醒した神器なんだが、\nどうにも壊れてしまってね。</size>,,,,,,,,,
+msg,0,<size=18>啊，没错。那是我所觉醒的神器，不过不知怎的坏掉了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:000,leite,-100,-50,0.4,0,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>直すための知見を得るために、\nこうして資料を探しに\n外に出たところだったんだ。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>为了获得修复所需的知识，我正打算外出寻找资料，刚好就在这时。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:002,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>あんた神器だったのか……。\n言われると確かに、\n雰囲気が似てるような気が\nしなくもないか……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>原来你是神器啊……这么说来确实，感觉气氛有点相似也不是不可能吧……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:000,leite,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>オレはこの赤槍を見るのは\n初めてのはずなんだが……。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>我应该是第一次看见这把赤枪才对……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:004,leite,-100,-50,0.4,0,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>どうしてだろうな、\n何故かわからないが\nこの槍の纏う雰囲気を\n知っているような気がする。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>真奇怪，虽然不知道为什么，却感觉好像认识这把枪所散发的气息一样。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -232,7 +232,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>そうレイテーが口にした矢先。\nレイテーの脳裏に、\nまったく見覚えの無い\n人物の姿が映る。</size>,,,,,,,,,
+msg,0,<size=18>雷希刚说出这句话的瞬间。雷希的脑海中，浮现出一个完全陌生的人影。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -284,8 +284,8 @@ endwait
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:005,leite,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>……ロヴィマンド。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>……罗威曼德。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -297,9 +297,9 @@ endwait,,,,,,,,,,,
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:004,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_20_1,0.15,0
-msg,0,<size=18>え、あんた今なんて……!?</size>,,,,,,,,,
+msg,0,<size=18>咦，你刚才说什么……!?</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -310,7 +310,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>レイテーが無意識に\nつぶやいた言葉を聞いて、\nラトマが大きく反応した。</size>,,,,,,,,,
+msg,0,<size=18>听到雷希无意识低语的词句，拉托马作出了强烈的反应。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -321,14 +321,14 @@ endwait
 
 
 name,
-msg,0,<size=18>するとその拍子にふたつの穂先が\n触れてしまい、\nそこから光が強まっていく。</size>,,,,,,,,,
+msg,0,<size=18>就在这时，两支枪尖不慎触碰在一起，随即光芒开始增强。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_c,body:004,leite,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>ああ、すまない。\n何故だか分からないが……\n急にそんな人物の名が頭に……\n……ん？</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>啊，抱歉。不知为何……突然有个人的名字出现在脑中…………嗯？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -376,9 +376,9 @@ endwait,
 
 spriteatlas,adv/image/character/311401/atlas/stand_d,body:002,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_30_2,0.3,0
-msg,0,<size=18>お、オレらの槍が光ってる!?\n起動したってことは……</size>,,,,,,,,,
+msg,0,<size=18>我、我们的枪在发光!? 既然启动了那就代表……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -393,8 +393,8 @@ spriteatlas,adv/image/character/311401/atlas/stand_d,body:004,ratoma2,0,0,0,0,,,
 imgconf,ratoma2,ratoma1,20,-620,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>まずい、\n次元の裂け目が来る！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>不妙，次元裂缝要出现了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -422,8 +422,8 @@ endwait,
 
 spriteatlas,adv/image/character/311401/atlas/stand_d,body:007,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>急いで逃げたほうがいい！\n次元の裂け目に飲まれたら、\nどこに飛ばされるのか\nオレもわかんないんだよ！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>最好赶快逃跑！要是被次元裂缝吞噬，会被传送到哪里我也完全不知道啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -432,8 +432,8 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/310302/atlas/stand_d,body:004,leite,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
 anm,jump,leite,0_-50_20_1,0.15,0
-name,<size=32>レイテー</size>,
-msg,0,<size=18>それは困る！\nだが放置はできないだろう。\n閉じる方法はあるのか？</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>那可就麻烦了！但不能置之不理吧。有办法关闭它吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -441,15 +441,15 @@ spriteoff,leite,0.2
 endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/311401/atlas/stand_d,body:003,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>多分、オレが制御できれば……</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>也许，只要我能控制的话……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_d,body:004,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_30_2,0.3,0
-msg,0,<size=18>うわっ！　\nこのままじゃ吸い込まれる!?</size>,,,,,,,,,
+msg,0,<size=18>哇！再这样下去会被吸进去!?</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -459,9 +459,9 @@ endwait,,,,,,,,,,,
 
 spriteatlas,adv/image/character/310302/atlas/stand_d,body:009,leite,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
+name,<size=32>雷希</size>,
 anm,jump,leite,0_-50_20_1,0.15,0
-msg,0,<size=18>周囲を飲み込んでいる……!?\nキミ、オレに捕まって！</size>,,,,,,,,,
+msg,0,<size=18>周围正在被吞噬……!? 你，快抓住我！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -472,7 +472,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>レイテーは地面に槍を突き立てて\n耐えようとするが、\n伸ばした手はラトマに届かない。</size>,,,,,,,,,
+msg,0,<size=18>雷希试图将枪插入地面抵挡住吸力，但他伸出的手却无法触及拉托马。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -487,8 +487,8 @@ imgconf,ratoma2,ratoma1,20,-620,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>うわあああっ！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>哇啊啊啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -511,7 +511,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>裂け目はラトマを吸い込んで、\n無慈悲に閉じてしまった。</size>,,,,,,,,,
+msg,0,<size=18>裂缝将拉托马吸入，残酷地关闭了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -546,21 +546,21 @@ endwait,
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:002,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_20_1,0.15,0
-msg,0,<size=18>……いてっ！\nどこだ、ここ？</size>,,,,,,,,,
+msg,0,<size=18>……好痛！这是哪里？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:003,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>変なところに\n吐き出されてなければ\nいいけどさ……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>希望没有被吐到什么奇怪的地方才好……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:000,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>でも掃除されてるみたいだし、\n誰かに話を聞ければ……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>不过看来这里被打扫过，或许能打听一下情况……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -576,7 +576,7 @@ endwait,,,,,,,,,,,
 anm,move,rudomusu,0_-50,1,0
 endwait,,,,,,,,,,,
 name,<size=32>???</size>,
-msg,0,<size=18>今の物音は……!?\nまさか、この城に侵入者が……</size>,,,,,,,,,
+msg,0,<size=18>刚才的声音是……!? 难道说，这座城堡里有入侵者……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -592,8 +592,8 @@ imgconf,rudomusu2,rudomusu1,0,-930,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
 
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>ぼ……坊っちゃん!?</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>少……少爷!?</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -603,15 +603,15 @@ endwait,,,,,,,,,,,
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:002,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,0_-50_20_1,0.15,0
-msg,0,<size=18>え？\nお、オレのこと？</size>,,,,,,,,,
+msg,0,<size=18>咦？在、在说我吗？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:010,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>お、オレはラトマって\nいうんだけど……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>我、我叫拉托马……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -633,7 +633,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>それからこれまでのことを\n説明すると、\nルドムスは落ち着きを\n取り戻したようだった。</size>,,,,,,,,,
+msg,0,<size=18>拉托马解释了之后发生的事，路德姆斯似乎恢复了镇定。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -641,89 +641,89 @@ spriteatlas,adv/image/character/311401/atlas/stand_b,body:001,ratoma,100,-50,0.4
 anm,tint,ratoma,150_150_150,0.0001,0
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:002,rudomusu,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>取り乱してしまい、\n申し訳ございませんでした。\nあなた様が坊っちゃんに\nよく似ていたものですから……。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>让您受惊了，实在非常抱歉。因为您和少爷长得太像了……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:001,ratoma,100,-50,0.4,0,,,,
 anm,tint,rudomusu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>まあ、オレはロヴィマンドの\n子孫みたいだからさ。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>嘛，毕竟我好像是罗威曼德的后代嘛。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:000,ratoma,100,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>それでここが\nロヴィマンドの城なんだな。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>所以这里就是罗威曼德的城堡啊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:000,rudomusu,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>左様でございます。\nここはシュヴァノール。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>正是如此。这里是舒瓦诺尔。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:000,rudomusu,-100,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>坊っちゃん……\nいえ、ロヴィマンド様が、\nお作りになり……</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>少爷……不，罗威曼德大人，他所建造……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:008,rudomusu,-100,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>今はこの私ルドムスが\n治める小さな世界です。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>现在是由我路德姆斯治理的小小世界。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:001,rudomusu,-100,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>偶発的な事故かもしれませんが、\n今、こうしてラトマ様に\nお会いできたことを、\n私は大変光栄に思います。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>虽说是意外事故，但此刻能与您相见，我感到无比荣幸。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:011,rudomusu,-100,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>どうか私のことは、\nルドムス、と気兼ねなく\nお呼びください。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>请务必不要客气，直接称呼我为路德姆斯即可。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:006,ratoma,100,-50,0.4,0,,,,
 anm,tint,rudomusu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>あはは……\nえーと、ありがとう。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>啊哈哈……呃，谢谢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:012,ratoma,100,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>ルドムス……さん。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>路德姆斯……先生。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>ぎこちなく笑うラトマに、\nルドムスは一礼すると、\n優しく微笑みかける。</size>,,,,,,,,,
+msg,0,<size=18>面对有些尴尬笑着的拉托马，路德姆斯微微鞠躬，温和地露出微笑。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:004,ratoma,100,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,100_-50_30_2,0.3,0
-msg,0,<size=18>あの、オレ……\nそれでさ！　知りたいことが、\nいっぱいあるんだけど……！</size>,,,,,,,,,
+msg,0,<size=18>那个，我……所以！我有好多想知道的事……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>食い気味に質問しようとした\nラトマだったが、\n突然その体がふらりと\n傾いてしまう。</size>,,,,,,,,,
+msg,0,<size=18>拉托马正急于提问，身体却突然摇晃了一下，向一旁倾倒。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -744,24 +744,24 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:004,rudomusu,0,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>ラトマ様、いかがされましたか？\n顔色が優れないようですが……</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>拉托马大人，您没事吧？您的脸色似乎不太好……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:002,ratoma,100,-150,0.4,0,,,,
 anm,tint,rudomusu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>……くそ、疲れてるのに\n槍の力を使ったから……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>……该死，明明已经很累，却还使用了枪的力量……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:008,rudomusu,0,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>おっと……\n詳しい事情は分かりかねますが、\nとてもお疲れのご様子。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>哎呀……虽然不清楚详细情况，但您看来非常疲惫。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -776,8 +776,8 @@ endwait,,,,,,,,,,,
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:011,rudomusu,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>お食事を用意いたしましょう。\nそれまでは、どうかそちらの\nベッドでお休みください。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>让我为您准备餐点吧。在那之前，请您先在旁的床上休息。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -791,22 +791,22 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>ベッドまで案内されると、\nラトマはすぐに\n倒れるように寝そべった。</size>,,,,,,,,,
+msg,0,<size=18>被引导至床边后，拉托马立刻像倒下般躺了下去。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>………………。</size>,,,,,,,,,
+msg,0,<size=18>………………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>…………。</size>,,,,,,,,,
+msg,0,<size=18>…………</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>……。</size>,,,,,,,,,
+msg,0,<size=18>……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -839,47 +839,47 @@ wait,0.2
 endwait,
 
 
-msg,0,<size=18>いつの間にか、ラトマはベッドの上で\n眠りこけていた。</size>,,,,,,,,,
+msg,0,<size=18>不知不觉间，拉托马已在床上\n睡熟了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>んぅ……。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,
-msg,0,<size=18>するとラトマの耳に、\nとても温かく懐かしい声が聞こえてくる。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ったく……随分とまぁ……\n幸せそうに寝てるじゃねえか。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>おーい、人様のベッドでくつろぎすぎだろおまえ……。\nいい加減起きろ～？</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>誰だよ……まだ寝かせてくれよ。\nオレは今、眠いんだ……。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>オレ様がせーっかく優しく起こしてやってるってのに、\n無視するとはいい度胸じゃねえか。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>はあ、仕方ねえ。それじゃ、奥の手だな。\nルドムス式の最強目覚まし方法をおまえに教えてやろう。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>嗯呜……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>声の主はにやついた声でわざとらしくため息を吐くと、\n嬉々としてラトマの服を脱がしていった。</size>,,,,,,,,,
+msg,0,<size=18>这时，拉托马的耳边响起了\n温暖而怀旧的声音。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>真是的……睡得可真幸福啊。\n</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>喂——，在别人的床上太悠闲了吧你……\n差不多该起来了吧～？</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>谁啊……再让我睡会儿。\n我现在，很困……</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>本大爷好心好意温柔地叫你起来，\n你居然敢无视，胆子不小嘛。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>哈，没办法。那就用绝招吧。\n就让你见识一下路德姆斯式的最强唤醒方法。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,
+msg,0,<size=18>声音的主人带着得意的口吻故意叹了口气，\n兴致勃勃地开始脱掉拉托马的衣服。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -898,18 +898,18 @@ spriteoff,still1,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>ん、なんだ？\nなんかオレ脱がされてる……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>嗯，怎么回事？\n感觉有人在帮我脱衣服……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>おら、起きろよラトマ。\nわざわざこの部屋の主が直々に起こしてやってんだぞ。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>起来啦，拉托马。\n可是这间屋子的主人亲自来叫你哦。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>これでもまだ寝るって言うなら、\nもっとすげえことしちまって、嫌でも目を覚まさせるぞ。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>如果这还不够让你醒过来，\n我就做点更厉害的事，逼你睁开眼睛。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -922,13 +922,13 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>この声……いや、まさかな……\nオレ、夢でも見てるのかもしれないな……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>这个声音……不会吧……\n我该不会是在做梦吧……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>オレ様の声を夢扱いするなよ。泣くぞマジで。\nいや、ラトマに無視されたのが寂しいとかじゃねえけど……。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>别把我的声音当梦话，我会哭的哦，真的。\n不过，也不是因为被你无视而感到寂寞啦……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -941,8 +941,8 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>いや、でも、この喋り方……本当に……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>不，但是，这个说话方式……真的是……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -950,13 +950,13 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>本当もくそもねえって。\nそんなに気になるなら、確かめてみればいいだろ。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>哪有真假之说。\n如果你这么在意，自己确认不就得了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>わかった……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>好吧……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -997,7 +997,7 @@ endwait,
 msgwin,on,
 endwait,
 name,
-msg,0,<size=18>恐る恐る視界を広げると、\nラトマが最も会いたかった人物がのぞき込んでいた。</size>,,,,,,,,,
+msg,0,<size=18>拉托马战战兢兢地张开双眼，\n最想见到的人正俯身凝视着他。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1010,8 +1010,8 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>は？　嘘だろ……？\n本当に、あんたなのか……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>哈？开玩笑的吧……？\n真的是你吗……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1026,58 +1026,58 @@ spriteoff,still3,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>なんで泣いてんだ!?　ど、どうしたラトマ？\n服を脱がせたのがそんなに駄目だったか!?</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>为什么哭啊!? 怎、怎么了拉托马？\n脱了你的衣服这么让你受不了吗!?</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>そんなんじゃねえよ……馬鹿……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>才不是那样……笨蛋……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ひぅっ!?　ご、ごめんなさい～！</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,
-msg,0,<size=18>急に人格が切り替わるような声の主に対する既視感が、\nラトマの考えを確信へと導いていく。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>ちょ、だから違うって……！\n別にその、怒ってるわけじゃなくて……！</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>オレ、あんたにもう一度会いたかったんだよ……だって、\n気付いたらあんたが残した槍が手元にあってさ。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>だからオレ、その赤槍で頑張っていろんな奴と戦って……\nあんたの敵を討つんだって……。</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>そんなことしても、\n会えないなんてわかってるのに……！</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>……無理に話さなくていい、ラトマ。\nオレ様はずっと見てる。言っただろ？</size>,,,,,,,,,
-clickwait,,,,,,,,,,,
-
-
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>あの日からオレ様はラトマと一緒なんだ。\nこれからもな。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>呜呜!? 对、对不起～！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>優しく差し込まれた手をラトマが握り返すと、\nそのままキスが降ってきて舌同士が絡み合う。</size>,,,,,,,,,
+msg,0,<size=18>对那个突然切换人格的声音主人产生的既视感，\n让拉托马的猜测变成了确信。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>喂，都说了不是……！\n我并没有、没有生气……！</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>我只是，想再见你一面……因为，\n不知不觉间，你留下的枪就到了我手上。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>所以我拿着那把赤枪努力战斗，打倒各种家伙……\n誓言要为你报仇……</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>明明知道就算这样也……\n还是见不到你……！</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>……不必勉强说话，拉托马。\n本大爷一直看着你呢。说过吧？</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>从那天起，本大爷就和拉托马在一起了。\n以后也是。</size>,,,,,,,,,
+clickwait,,,,,,,,,,,
+
+
+name,
+msg,0,<size=18>当拉托马回握住温柔伸来的手时，\n一个吻随即落下，两人的舌头交缠在一起。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1098,38 +1098,38 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>んぅ、ん、ん……んっ！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>嗯呜，嗯，嗯……嗯！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ふぅ……おまえって意外とキスするときガツガツしてるよな。\nまぁヤりたい盛りだろうし、そんなもんか。</size>,,,,,,,,,
+name,<size=32>怀旧的声音</size>,
+msg,0,<size=18>呼……你接吻时意外地很主动呢。\n反正正是想做的年纪，这样也正常吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>な、んだよ、馬鹿にすんな……！\nしょうがねえだろ、今舞い上がってるんだし……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>什、什么啊，别小看我……！\n没办法嘛，现在兴奋着呢……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>うぅ、でもこれはきっと夢なんだろ？\nオレが都合よく見てる夢なんだよな？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>呜，不过这一定是梦吧？\n是我做的一厢情愿的梦对吧？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>その問いかけに、懐かしい声はすぐに答えない。\nだが、少しして、声の主は微笑むように口を開いた。</size>,,,,,,,,,
+msg,0,<size=18>面对那个问题，那熟悉的声音没有立刻回答。\n但过了一会儿，声音的主人像微笑着般开口了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>……さぁな。夢の存在だって言うならそう思えばいいし、\nおまえがオレ様自身だと思うなら、それでいい。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>……谁知道呢。如果说那是梦的存在，那你就这么想；\n如果你认为那就是我本人，那样也没关系。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>だから今は……心配しなくていいんだ。\nただオレ様のことを信じてくれ。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>所以现在……你不必担心。\n只要相信我就可以了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1142,8 +1142,8 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>なんだよ、それ……！　オレがあんたのことを、\n信じないわけないだろうが……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>说什么呢……！我怎么可能不相信你……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1151,18 +1151,18 @@ stopse,all
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>だって、オレはあんたの……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>毕竟，我是你的……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>はは、嬉しいこと言ってくれるじゃん。\nさすがラトマだ。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>哈哈，说这种让人开心的话啊。\n不愧是拉托马。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>感情が舌使いに表れて、\nふたりの口づけは激しさを増してく。</size>,,,,,,,,,
+msg,0,<size=18>情感流露在唇舌之间，\n两人的吻愈发激烈。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1175,23 +1175,23 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>んぅ……んじゃ、\n次はこっちの方でもキスしちゃうか？</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>嗯……那么，\n接下来换这边也来个吻怎么样？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>なに、んっ……うぅ、言ってんだよ……。\nはふ……どういう、意味だ……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>什么，嗯……呜，你在说什么啊……\n哈……这是什么意思……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>確かになんか変態くさいか……こういう時、\nどういう言い回しが適切なのか、わかんないんだよな……。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>确实有点变态的味道……这种时候，\n到底该怎么表达才合适，我也拿不准啊……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>声の主は照れながら顔を上げて、\n硬くなった一物を突き出した。</size>,,,,,,,,,
+msg,0,<size=18>声音的主人红着脸擡起头，\n挺起了那根硬起来的家伙。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1210,13 +1210,13 @@ spriteoff,still5,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>こういうことだよ。\nまっ、たまには悪くないだろ？</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>就是这样的。\n嘛，偶尔这样也不错吧？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>オレのと、こすり合わせるってことか……\n確かに……んっ、あぁぁあ気持ちいい……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>是要和我的互相摩擦吗……\n的确……嗯，啊啊啊好舒服……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1229,23 +1229,23 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ああ……オレ様も気持ちいいぜ……\nほら、オレ様だけじゃなく、おまえも動いてみろよ。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>啊……我也好舒服……\n看吧，不只是我，你也动一动试试。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>わかった……うあぁ、気持ちいいよ……！\nっはぁ、はぁあ、挿れられてるわけじゃないのに、こんな……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>知道了……哇啊，好舒服啊……！\n哈啊，哈啊，明明没有被插入，却这么……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>すごい、熱く感じる……本物なんだ……\nあんたがここにいて、オレと体を重ねてる……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>太厉害了，感觉好热……这是真的……\n你就在这里，和我身体相叠……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>それじゃあこのままイかせちまおうかな……\nオレ様とどっちが先にイくか勝負してみるか、ラトマ？</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>那就干脆就这样一起高潮吧……\n拉托马，我们来比比谁先高潮怎么样？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1258,18 +1258,18 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>なんだよ、それ……そういうのって、んうぅ……\n普通は出した方が負けとかじゃ、ねえのかよ……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>说什么呢……这种事，嗯呜……\n通常不是谁先射出来谁就输吗……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>そ、そういうもんなのか……？\nじゃあそれでいいぜ！　今はオレ様がルールなんだよ！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>是、是这样吗……？\n那就这么定了！现在规则由我来定！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>意地になった声の主は、ラトマより先に出そうと\n腰を激しく振り始めた。</size>,,,,,,,,,
+msg,0,<size=18>声音的主人不服输地开始剧烈扭动腰肢，\n想要比拉托马先射出来。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1290,18 +1290,18 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>いっ、ああぁ……くそ、この体勢じゃ、\nオレにできること、んぁっ、そんなにないじゃんか……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>呜，啊啊啊……可恶，在这种姿势下，\n我能做的，嗯啊，也就那么点事了吧……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>我慢しなくていいぜ？\n好きに喘いでオレ様より先にイっちまえ。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>不用忍着哦？\n尽情地喘息，在我之前高潮吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>嫌だ……なんか、あんたより先にイきたくない！\nそっちが先にイけよ！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>不要……我才不想比你先高潮！\n你先高潮啊！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1314,13 +1314,13 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>んぐっ!?　オレ様の腰に、合わせてきやがった！\n生意気なこと言いやがって……先にイくのはおまえだ、ラトマ！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>唔嗯！？竟然配合我的腰动起来了！\n竟敢这么没大没小……先高潮的人是你，拉托马！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>うぅぅ……そんな、激しくこするの、反則だろぉ……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>呜呜……这么剧烈地摩擦，犯规了吧……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1333,8 +1333,8 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>くそ、駄目だ、オレもうイく、イくううっ!!</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>可恶，不行了，我要高潮了，要高潮了呜呜！！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1359,8 +1359,8 @@ spriteoff,still7,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>よっしゃ、じゃあオレ様の勝ちってことで……おぉ!?\nすげえ……ビクンビクンして、脈動が感じられるな……！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>好哦，那就算我赢咯……噢！？\n太棒了……抖个不停，能感觉到脉搏的跳动……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1373,13 +1373,13 @@ wait,1
 endwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>う、うるさい……そんなこと、言うなよ……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>吵、吵死了……别说那种话啊……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ちょっと、ラトマが思ったよりエロくて……\nあぁっ、オレ様も出すぞ……！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>稍微，拉托马比我想象的还要色情……\n啊，我也要射出来了……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1392,8 +1392,8 @@ wait,0.5
 endwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>あぁぁ出る、出るっ！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>啊啊，出来了，出来了！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1414,18 +1414,18 @@ spriteoff,still8,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>あぁ、あんたのも、すげえ震えてるじゃん……！\nそれに量も多いし……！</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>啊，你的也在剧烈颤抖啊……！\n而且量还很多……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>ん、ふぅ、量は多いほうが勝ちだからな……！</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>嗯，呼，量多的一方获胜哦……！</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>なんだよそれ……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>说什么呢……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1440,48 +1440,48 @@ spriteoff,still9,0
 endwait,
 msgwin,on,
 endwait,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>あはは……。でも、温かいな……。\nすっごく、温かくて……包まれてるみたいだ。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>啊哈哈……不过，好温暖啊。\n非常温暖，就像被包裹着一样。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>また泣いてるのかよ。泣き虫な奴。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>又在哭了吗？爱哭鬼。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>泣き虫とか、あんただけには言われたくないけどな。\nしょうがないだろ……勝手に、涙が出てきちゃうんだからさ。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>爱哭鬼什么的，唯独不想听你说啊。\n没办法嘛……眼泪自己就流出来了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>……オレ様はずっとそばにいるって、言ってるだろうが。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>……我不是说过会一直陪在你身边吗。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>うん、そうだな……嬉しかったよ。\nこれからオレ、強くなるから。見守っててくれよな。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>嗯，是啊……我很开心。\n从今往后我会变强的，请看着我吧。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>当然のことを言うなって。\nラトマならできるに決まってる。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>别说这种理所当然的话。\n如果是拉托马的话，肯定没问题。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>懐かしい声</size>,
-msg,0,<size=18>なんたって……おまえはオレ様の子孫だからな。</size>,,,,,,,,,
+name,<size=32>熟悉的声音</size>,
+msg,0,<size=18>毕竟……你是我的子孙啊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>ああ……そうだな。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>啊……是啊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>頭を撫でられる感覚に、\n笑みと涙が同時にこぼれて止まらない。</size>,,,,,,,,,
+msg,0,<size=18>感受到抚摸头顶的感觉，\n笑容与泪水同时涌出，无法停止。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1500,7 +1500,7 @@ endwait,
 
 
 name,
-msg,0,<size=18>満たされた気持ちのまま、\nラトマの意識はまた眠りに落ちていく……。</size>,,,,,,,,,
+msg,0,<size=18>带着满足的心情，\n拉托马的意识再次沉入睡眠……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1539,7 +1539,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>再びラトマが目を覚ますと、\nそこは知らない場所だった。</size>,,,,,,,,,
+msg,0,<size=18>当拉托马再次醒来时，\n那里是一个陌生的地方。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1584,8 +1584,8 @@ imgconf,ratoma2,ratoma1,20,-620,,,0,1.5,1.5,0.5
 sprite,adv/image/ef/ev15_ef1.png,line,0,0,1,0.5,,,,
 endwait,,,,,,,,,,,
 
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>なんだここ……\nシュヴァノールなのか……？</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>这里是哪里……\n是舒瓦诺尔吗……？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1597,68 +1597,68 @@ spriteatlas,adv/image/character/311401/atlas/stand_b,body:004,ratoma,100,-50,0.4
 anm,tint,ratoma,150_150_150,0.0001,0
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:000,leite,-100,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>おっ、目を覚ましたようだな。\n寝起きに何か\n温かいものでも淹れようか。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>哦，醒了吗。\n刚睡醒要不要给你泡点热乎的东西？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:004,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
+name,<size=32>苍焰猎人 拉托马</size>,
 anm,jump,ratoma,100_-50_30_2,0.3,0
-msg,0,<size=18>レイテー！\nなんでここに!?</size>,,,,,,,,,
+msg,0,<size=18>雷希！\n你怎么在这里！？</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:001,leite,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>それはここがオレの工房で、\nキュロネル近くの森で倒れていた\nキミを運んだからだな。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>因为这里是我的工作室，\n我把在丘罗涅尔附近的森林里倒下的\n你给带回来了。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:002,leite,-100,-50,0.4,0,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>裂け目に飲まれた時は\nどうなるかと思ったけど、\nすぐ見つけられてよかったよ。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>当时以为你被裂缝吞噬了就完了，\n没想到很快就被找到了，真庆幸啊。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:002,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>キュロネル……？\nってことはオレ、\n戻ってきたのか。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>丘罗涅尔……？\n这么说，我\n回来了吗。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:008,ratoma,100,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>とにかく、\n助かったよ、ありがとう。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>总之，\n得救了，谢谢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:000,leite,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>いいってことだよ。\nどうやらキミの槍はオレの槍と\n何らかの関係があるようだしな。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>没关系啦。\n看来你的枪和我的枪\n似乎有着某种关联。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:002,leite,-100,-50,0.4,0,,,,
-name,<size=32>レイテー</size>,
+name,<size=32>雷希</size>,
 anm,jump,leite,-100_-50_20_1,0.15,0
-msg,0,<size=18>それで、もしよかったら\n調べてもいいか？\n眠っている間に触るのは\nさすがにどうかと思ってね。</size>,,,,,,,,,
+msg,0,<size=18>所以，如果方便的话\n可以调查一下吗？\n想着趁你睡着的时候触碰\n总觉得不太妥当呢。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:000,ratoma,100,-50,0.4,0,,,,
 anm,tint,leite,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>オレの、槍……。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>我的，枪……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1691,16 +1691,16 @@ endwait,
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:001,leite,-100,-50,0.4,0.5,,,,
 anm,tint,leite,150_150_150,0.0001,0
 spriteatlas,adv/image/character/311401/atlas/stand_b,body:001,ratoma,100,-50,0.4,0.5,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>……あぁ。もちろん、\n何かわかったらオレにも\n教えてほしい。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>……啊。当然，\n如果有发现的话\n也想告诉我。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310302/atlas/stand_b,body:001,leite,-100,-50,0.4,0,,,,
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
-name,<size=32>レイテー</size>,
-msg,0,<size=18>助かる。\nそれじゃあ飲み物を持ってくる、\n少し待っていてくれ。</size>,,,,,,,,,
+name,<size=32>雷希</size>,
+msg,0,<size=18>太好了。\n那我去拿饮料，\n请稍等一下。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1714,27 +1714,27 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>レイテーが部屋を出てから\nラトマは傍らに置いてあった\n赤槍を抱きしめる。</size>,,,,,,,,,
+msg,0,<size=18>雷希离开房间后，\n拉托马抱紧了放在身旁的\n赤枪。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:009,ratoma,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>……夢でもいいんだ。\nオレ、頑張るよ。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>……就算是梦也好。\n我会努力的。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,ratoma,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>聞こえると信じて、\nラトマは小さくつぶやいた。</size>,,,,,,,,,
+msg,0,<size=18>相信他能听见，\n拉托马小声低语道。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/311401/atlas/stand_c,body:006,ratoma,0,-50,0.4,0,,,,
-name,<size=32>蒼焔を纏う狩人 ラトマ</size>,
-msg,0,<size=18>……ロヴィマンド。</size>,,,,,,,,,
+name,<size=32>苍焰猎人 拉托马</size>,
+msg,0,<size=18>……罗威曼德。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1754,39 +1754,39 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>そして時同じくして、\nシュヴァノールではルドムスが\n空になったベッドを前に、\n薄く微笑んでいた。</size>,,,,,,,,,
+msg,0,<size=18>与此同时，\n在舒瓦诺尔，路德姆斯\n面对着空荡荡的床铺，\n淡淡地微笑着。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:008,rudomusu,0,-50,0.4,0.5,,,,
 endwait,,,,,,,,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>……お帰りになられましたか。\n本音を言えば、もう少し\nご一緒したかったのですが……。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>……您回来了吗。\n说实话，真想再多陪您一会儿……</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:001,rudomusu,0,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>坊っちゃんにお会いできたようで\n大変嬉しい時間でした。\n良ければまたお越しください。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>能见到少爷，\n是非常愉快的时光。\n如果方便的话，请再次光临。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 anm,tint,rudomusu,150_150_150,0.0001,0
 endwait,,,,,,,,,,,
 name,
-msg,0,<size=18>そう言うと、ルドムスは、\nほんの少しだけ温かい\nベッドにゆっくりと触れる。</size>,,,,,,,,,
+msg,0,<size=18>说完，路德姆斯缓缓地\n轻轻触碰了一下那微温的\n床铺。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:001,rudomusu,0,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>……ラトマ様。\nその時はきっと、またお話を\n聞いていただければと存じます。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>……拉托马大人。\n下次一定还会再听您讲述的。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
 spriteatlas,adv/image/character/310901/atlas/stand_b,body:011,rudomusu,0,-50,0.4,0,,,,
-name,<size=32>ルドムス</size>,
-msg,0,<size=18>私が知る……\nロヴィマンド様のことを。</size>,,,,,,,,,
+name,<size=32>路德姆斯</size>,
+msg,0,<size=18>关于我所知道的……\n罗威曼德大人的事情。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1797,7 +1797,7 @@ endwait,,,,,,,,,,,
 
 
 name,
-msg,0,<size=18>思い出に耽りながら、\nルドムスは恭しく頭を下げた。</size>,,,,,,,,,
+msg,0,<size=18>沉浸于回忆之中，\n路德姆斯恭敬地低下了头。</size>,,,,,,,,,
 clickwait,,,,,,,,,,,
 
 
@@ -1812,3 +1812,4 @@ endwait
 bgoff,1.0
 stopbgm
 endwait
+
