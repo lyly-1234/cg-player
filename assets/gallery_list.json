@@ -1,8 +1,8 @@
 [
   {
-    "galleryId": "313901",
-    "name": "多德盖亚斯",
-    "type": 0,
+    "galleryId": "314201",
+    "name": "帝尔温格",
+    "type": 1,
     "isJp": true,
     "scripts": [
       "script_cg1.txt"
@@ -12,8 +12,8 @@
     ]
   },
   {
-    "galleryId": "018401",
-    "name": "梵昇",
+    "galleryId": "018501",
+    "name": "冥狱魔王 维丹德尔",
     "type": 0,
     "isJp": true,
     "scripts": [
@@ -21,7 +21,19 @@
       "script_cg2.txt"
     ],
     "isSound": [
-      false,
+      true,
+      true
+    ]
+  },
+  {
+    "galleryId": "311201",
+    "name": "暴牛霸神帝 阿瑞斯",
+    "type": 1,
+    "isJp": false,
+    "scripts": [
+      "script_cg1.txt"
+    ],
+    "isSound": [
       false
     ]
   },
