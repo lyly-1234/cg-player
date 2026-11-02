@@ -26,8 +26,22 @@
     ]
   },
   {
-    "galleryId": "311201",
-    "name": "暴牛霸神帝 阿瑞斯",
+    "galleryId": "014701",
+    "name": "布里欧纳克 IF",
+    "type": 0,
+    "isJp": false,
+    "scripts": [
+      "script_cg1.txt",
+      "script_cg2.txt"
+    ],
+    "isSound": [
+      true,
+      true
+    ]
+  },
+  {
+    "galleryId": "311501",
+    "name": "晓仁 IF",
     "type": 1,
     "isJp": false,
     "scripts": [
@@ -60,20 +74,6 @@
       "script_cg1.txt"
     ],
     "isSound": [
-      false
-    ]
-  },
-  {
-    "galleryId": "014601",
-    "name": "马房莱斗",
-    "type": 0,
-    "isJp": false,
-    "scripts": [
-      "script_cg1.txt",
-      "script_cg2.txt"
-    ],
-    "isSound": [
-      false,
       false
     ]
   }
