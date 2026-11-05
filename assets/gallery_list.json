@@ -1,5 +1,19 @@
 [
   {
+    "galleryId": "018601",
+    "name": "梅纳尔",
+    "type": 1,
+    "isJp": true,
+    "scripts": [
+      "script_cg1.txt",
+      "script_cg2.txt"
+    ],
+    "isSound": [
+      false,
+      false
+    ]
+  },
+  {
     "galleryId": "314201",
     "name": "帝尔温格",
     "type": 1,
