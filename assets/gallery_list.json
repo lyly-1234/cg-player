@@ -1,8 +1,8 @@
 [
   {
-    "galleryId": "018601",
-    "name": "梅纳尔",
-    "type": 1,
+    "galleryId": "017001",
+    "name": "提奥马克",
+    "type": 0,
     "isJp": true,
     "scripts": [
       "script_cg1.txt",
@@ -14,29 +14,17 @@
     ]
   },
   {
-    "galleryId": "314201",
-    "name": "帝尔温格",
-    "type": 1,
-    "isJp": true,
-    "scripts": [
-      "script_cg1.txt"
-    ],
-    "isSound": [
-      false
-    ]
-  },
-  {
-    "galleryId": "018501",
-    "name": "冥狱魔王 维丹德尔",
+    "galleryId": "014801",
+    "name": "百目鬼 骸",
     "type": 0,
-    "isJp": true,
+    "isJp": false,
     "scripts": [
       "script_cg1.txt",
       "script_cg2.txt"
     ],
     "isSound": [
-      true,
-      true
+      false,
+      false
     ]
   },
   {
@@ -56,32 +44,6 @@
   {
     "galleryId": "311501",
     "name": "晓仁 IF",
-    "type": 1,
-    "isJp": false,
-    "scripts": [
-      "script_cg1.txt"
-    ],
-    "isSound": [
-      false
-    ]
-  },
-  {
-    "galleryId": "014901",
-    "name": "决意祷剑 葛卜",
-    "type": 0,
-    "isJp": false,
-    "scripts": [
-      "script_cg1.txt",
-      "script_cg2.txt"
-    ],
-    "isSound": [
-      true,
-      true
-    ]
-  },
-  {
-    "galleryId": "311401",
-    "name": "苍焰猎人 拉托马",
     "type": 1,
     "isJp": false,
     "scripts": [

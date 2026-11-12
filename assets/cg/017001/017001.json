@@ -1,0 +1,173 @@
+[
+  {
+    "storyId": 101700111,
+    "storyImageList": [
+      {
+        "path": "adv/image/character/017001/image/101.jpg",
+        "md5": "87453dd7454d50a963b61f8e372c7dda",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c7b3495fc58eb6d4f80625bbfb22e8fc/e4/8a/6a/3b/87453dd7454d50a963b61f8e372c7dda.jpg",
+        "type": "image",
+        "file": "101.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/102.jpg",
+        "md5": "4a9b2939c8c3d7a251da94ef3a1a1a4d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2e66851a2d25f0e6a947bd8695471a19/0d/94/51/68/4a9b2939c8c3d7a251da94ef3a1a1a4d.jpg",
+        "type": "image",
+        "file": "102.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/103.jpg",
+        "md5": "47a19e47b223806c1cb2ff9de7e584c3",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0931fa83e2d2d2c1d81be3bc8c2eae82/4e/6c/76/ef/47a19e47b223806c1cb2ff9de7e584c3.jpg",
+        "type": "image",
+        "file": "103.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/104.jpg",
+        "md5": "e7a658e466a430a107a6b6b501f6e6bb",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5b531d37b9427300628310a71bd695ae/48/2e/51/e7a658e466a430a107a6b6b501f6e6bb.jpg",
+        "type": "image",
+        "file": "104.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/105.jpg",
+        "md5": "354d12b483b8d89e1c8e28dee90d39c5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6b63106a4faf2c45e422f24b564a9369/d4/cc/5f/354d12b483b8d89e1c8e28dee90d39c5.jpg",
+        "type": "image",
+        "file": "105.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/106.jpg",
+        "md5": "681ab5a3fdea0c245afcc722cafefd4f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5caf177e5f73219385488ca7c0bbb990/1f/8d/681ab5a3fdea0c245afcc722cafefd4f.jpg",
+        "type": "image",
+        "file": "106.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/107.jpg",
+        "md5": "e0db2882552015d59d01d5425b53641e",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ee591c13e110d7faff66d49334da0d9c/52/b4/b6/df/e0db2882552015d59d01d5425b53641e.jpg",
+        "type": "image",
+        "file": "107.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/108.jpg",
+        "md5": "0a1ef983c3f35cd79e10182fcf5406ad",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/67bfc757de704c4e965c4ed2f7ab9af3/60/ae/41/0a1ef983c3f35cd79e10182fcf5406ad.jpg",
+        "type": "image",
+        "file": "108.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/109.jpg",
+        "md5": "d8046ba99b34db2d22b69473334733a2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2b7c60632fbbba5b0238cc8feef64db4/43/f6/72/d8046ba99b34db2d22b69473334733a2.jpg",
+        "type": "image",
+        "file": "109.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/110.jpg",
+        "md5": "6bbd25611b644cc7b4a8d760880b5cb8",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2a4a82f71fcb1bb7c5e545ea0f3d2a2f/85/4c/0d/f7/6bbd25611b644cc7b4a8d760880b5cb8.jpg",
+        "type": "image",
+        "file": "110.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/111.jpg",
+        "md5": "b3b8e605bf5ef1db067eabdb1e668d76",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2534c307cff1d2a2afca78340aa2b10c/e8/bb/5a/b3b8e605bf5ef1db067eabdb1e668d76.jpg",
+        "type": "image",
+        "file": "111.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/112.jpg",
+        "md5": "8888e17f6f683c29d2724edbdd693d2f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ceec0daffe479a76ca6aaaed8dc58696/25/b5/8888e17f6f683c29d2724edbdd693d2f.jpg",
+        "type": "image",
+        "file": "112.jpg"
+      }
+    ]
+  },
+  {
+    "storyId": 101700112,
+    "storyImageList": [
+      {
+        "path": "adv/image/character/017001/image/201.jpg",
+        "md5": "d8c19ad2cd367b182bb784864bafcc4b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/32dacf53339751332c7408fb8919d772/5e/84/5a/d8c19ad2cd367b182bb784864bafcc4b.jpg",
+        "type": "image",
+        "file": "201.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/202.jpg",
+        "md5": "02f486f4488b573aa62d7c6165884e47",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ac30b080d909639f5ffdb70ab2da78e9/24/e4/02f486f4488b573aa62d7c6165884e47.jpg",
+        "type": "image",
+        "file": "202.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/203.jpg",
+        "md5": "1310c1c118639e5560acd4a9b54519d2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6d84a390ed17df1ac4fea91c5ebace9e/2a/b8/1310c1c118639e5560acd4a9b54519d2.jpg",
+        "type": "image",
+        "file": "203.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/204.jpg",
+        "md5": "6da9eaa12063bf13d2770a866148d1db",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5110c15a7aa3a3cc89b73cd9dfd3fc91/6c/bd/60/2e/6da9eaa12063bf13d2770a866148d1db.jpg",
+        "type": "image",
+        "file": "204.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/205.jpg",
+        "md5": "72db935bef9e4d9a0570cff1f4b6ad28",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0f5237fb8637203ca74a39100642611a/18/2b/72db935bef9e4d9a0570cff1f4b6ad28.jpg",
+        "type": "image",
+        "file": "205.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/206.jpg",
+        "md5": "c3f69b296d4e870df21882f2173473be",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a198b67f0cf6cb6b6abcb59b790a7d24/22/12/75/c3f69b296d4e870df21882f2173473be.jpg",
+        "type": "image",
+        "file": "206.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/207.jpg",
+        "md5": "71c660f8888284976c5fcf6d6a3ecbf5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ada8e6d0de467d5b83eb4e643289fe0c/42/9d/19/9a/71c660f8888284976c5fcf6d6a3ecbf5.jpg",
+        "type": "image",
+        "file": "207.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/208.jpg",
+        "md5": "28eb71fddc539764600656af494f3e7b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/60e5423137df984638db9929b1ccc084/98/ae/c2/ca/28eb71fddc539764600656af494f3e7b.jpg",
+        "type": "image",
+        "file": "208.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/209.jpg",
+        "md5": "537391fb743ad25af75e357f0a7e846b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/05fb791b63045e4502831c9dac30fe05/35/62/537391fb743ad25af75e357f0a7e846b.jpg",
+        "type": "image",
+        "file": "209.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/210.jpg",
+        "md5": "bd64b4301c0d6a808d9bdc3481bd5f9f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e4f8bb932b8ca61951f08fdde2aacb0f/f1/a4/99/00/bd64b4301c0d6a808d9bdc3481bd5f9f.jpg",
+        "type": "image",
+        "file": "210.jpg"
+      },
+      {
+        "path": "adv/image/character/017001/image/211.jpg",
+        "md5": "c4a00c69c9225268137b9f897b8bf5f5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bb042621346c73008ef43e71d685afed/1c/49/c4a00c69c9225268137b9f897b8bf5f5.jpg",
+        "type": "image",
+        "file": "211.jpg"
+      }
+    ]
+  }
+]
