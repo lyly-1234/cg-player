@@ -1,5 +1,31 @@
 [
   {
+    "galleryId": "018701",
+    "name": "奥尔温",
+    "type": 0,
+    "isJp": true,
+    "scripts": [
+      "script_cg1.txt",
+      "script_cg2.txt"
+    ],
+    "isSound": [
+      true,
+      true
+    ]
+  },
+  {
+    "galleryId": "314301",
+    "name": "玄武",
+    "type": 1,
+    "isJp": true,
+    "scripts": [
+      "script_cg1.txt"
+    ],
+    "isSound": [
+      false
+    ]
+  },
+  {
     "galleryId": "017001",
     "name": "提奥马克",
     "type": 0,
@@ -14,8 +40,8 @@
     ]
   },
   {
-    "galleryId": "014801",
-    "name": "百目鬼 骸",
+    "galleryId": "500201",
+    "name": "萨拉叶",
     "type": 0,
     "isJp": false,
     "scripts": [
@@ -24,32 +50,6 @@
     ],
     "isSound": [
       false,
-      false
-    ]
-  },
-  {
-    "galleryId": "014701",
-    "name": "布里欧纳克 IF",
-    "type": 0,
-    "isJp": false,
-    "scripts": [
-      "script_cg1.txt",
-      "script_cg2.txt"
-    ],
-    "isSound": [
-      true,
-      true
-    ]
-  },
-  {
-    "galleryId": "311501",
-    "name": "晓仁 IF",
-    "type": 1,
-    "isJp": false,
-    "scripts": [
-      "script_cg1.txt"
-    ],
-    "isSound": [
       false
     ]
   }
