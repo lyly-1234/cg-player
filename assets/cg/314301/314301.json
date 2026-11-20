@@ -1,6 +1,7 @@
 [
   {
     "storyId": 131430111,
+    "isAnimation": false,
     "storyImageList": [
       {
         "path": "adv/image/character/314301/image/101.jpg",
@@ -71,6 +72,456 @@
         "url": "https://gg-resource.crave-saga.net/1.0.0/1ddd19f0a3e97a22e15e2ac463b2cdee/c9/15/29/d0/64d9f4fec7f0af64ac3a13801e75b277.jpg",
         "type": "image",
         "file": "110.jpg"
+      }
+    ],
+    "files": [
+      {
+        "path": "adv/textfiles/story/chara314301_11X.txt",
+        "md5": "8744557bbd99bc57e9ce2a090a39d6b0",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/568afc9a99be1b9c1d4c87cd74fb6a31/37/5d/6d/f6/8744557bbd99bc57e9ce2a090a39d6b0.txt",
+        "type": "txt",
+        "file": "script_cg1.txt"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_018.mp3",
+        "md5": "6bd2b5636646b97b5393952a8b46ec86",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5a0db6451295015cfdc19a83ff7b23d8/92/be/f4/1f/6bd2b5636646b97b5393952a8b46ec86.mp3",
+        "type": "mp3",
+        "file": "bgm_018.mp3"
+      },
+      {
+        "path": "/adv/sound/se/heart_2.mp3",
+        "md5": "dcfaf261a8a71e4106cba66ceb3933d4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ee85eb3889cbe2667f4146c09010510a/1f/97/dcfaf261a8a71e4106cba66ceb3933d4.mp3",
+        "type": "mp3",
+        "file": "heart_2.mp3"
+      },
+      {
+        "path": "/adv/sound/se/knock_1.mp3",
+        "md5": "6e596312932d614e038df2a4f4ae3245",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/343a9075af726eb81b8c9d81d48f582f/f6/fe/32/f1/6e596312932d614e038df2a4f4ae3245.mp3",
+        "type": "mp3",
+        "file": "knock_1.mp3"
+      },
+      {
+        "path": "/adv/sound/se/heart_1.mp3",
+        "md5": "d5c66f11b54c629afd9b66edae362893",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3ea317a29b2a732882d9c1b295abf0d3/23/19/57/d5c66f11b54c629afd9b66edae362893.mp3",
+        "type": "mp3",
+        "file": "heart_1.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_020.mp3",
+        "md5": "b9ada7223162e89821272224cbd38201",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/973b45e2fe9fee89ae189f97f0b0b9c3/35/2c/b9ada7223162e89821272224cbd38201.mp3",
+        "type": "mp3",
+        "file": "bgm_020.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/101.jpg",
+        "md5": "9d2723317c957e2a43547dfe42dbd552",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a58176b5107c40941858db32c5b6d638/5d/55/33/fa/9d2723317c957e2a43547dfe42dbd552.jpg",
+        "type": "image",
+        "file": "101.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_03.mp3",
+        "md5": "8392d831f4f4f2419886087056b964f5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b0eec448dc910b0b3f8a110312b17660/df/cd/47/8392d831f4f4f2419886087056b964f5.mp3",
+        "type": "mp3",
+        "file": "a_se29_03.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se27_02.mp3",
+        "md5": "dbf423a76fcd6c7b1ba45c98f4c78342",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d1c5e5d87020325c2af2c8cba94a5634/44/36/32/c5/dbf423a76fcd6c7b1ba45c98f4c78342.mp3",
+        "type": "mp3",
+        "file": "a_se27_02.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/102.jpg",
+        "md5": "da13827a0a8f35335cb2258979755559",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/08a2e3c2cafe90df4a92b059ee86a6eb/59/9d/45/2e/da13827a0a8f35335cb2258979755559.jpg",
+        "type": "image",
+        "file": "102.jpg"
+      },
+      {
+        "path": "/adv/sound/se/se22_drink02.mp3",
+        "md5": "36a438d373b77b9240797b178fe78efe",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8cc23e8dbc16ddf022b664683426b978/a0/8d/5b/07/36a438d373b77b9240797b178fe78efe.mp3",
+        "type": "mp3",
+        "file": "se22_drink02.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_01.mp3",
+        "md5": "4a8e9ac542d16e4cd547476e3cbf2029",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/974c0e79cd5372df6c1b4e91919b126c/7b/5e/ee/e9/4a8e9ac542d16e4cd547476e3cbf2029.mp3",
+        "type": "mp3",
+        "file": "a_se29_01.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/103.jpg",
+        "md5": "ab9edb95c5e44fc1bc05102383d9ae1b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/dceef5b3e99141d1353dc4fbdc285f6f/f3/81/cd/7f/ab9edb95c5e44fc1bc05102383d9ae1b.jpg",
+        "type": "image",
+        "file": "103.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se34_01.mp3",
+        "md5": "2ba3bbfb1c83cd23241ff9c4686ed83a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/07200d2f0b2e3f9e9da94b258fce2df8/f7/67/62/2ba3bbfb1c83cd23241ff9c4686ed83a.mp3",
+        "type": "mp3",
+        "file": "a_se34_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se10_01.mp3",
+        "md5": "3651c2f807f76d3fb5b5b48f1384c7d5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/de49a701231be3a5aa82acbb738f9889/8d/fb/54/3651c2f807f76d3fb5b5b48f1384c7d5.mp3",
+        "type": "mp3",
+        "file": "a_se10_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_03.mp3",
+        "md5": "1b431901e229a467474763d1bfefb60b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6c1b141df35b4c14a4b370a8538f4ba5/22/70/51/1b431901e229a467474763d1bfefb60b.mp3",
+        "type": "mp3",
+        "file": "a_se16_03.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/104.jpg",
+        "md5": "c0d94f202b0c9c1d635633da4f5566a3",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9d20da9cdbd808e0db54904691bc425b/7a/93/85/e3/c0d94f202b0c9c1d635633da4f5566a3.jpg",
+        "type": "image",
+        "file": "104.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se14_02.mp3",
+        "md5": "08263eb4320ef6d6cd2c85e6d5e3206b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1eb761a52f46ba621a3173a12deda70b/1d/e0/08263eb4320ef6d6cd2c85e6d5e3206b.mp3",
+        "type": "mp3",
+        "file": "a_se14_02.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/105.jpg",
+        "md5": "7b784c135846540466d2933e35304665",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9c9789e96f03486242c20067c1e96758/e3/a5/5f/7b784c135846540466d2933e35304665.jpg",
+        "type": "image",
+        "file": "105.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se15_02.mp3",
+        "md5": "9edc4fefd79a386528a8353412ed7058",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d0a1f9c2467d5041585edfad93cc63c1/42/31/b1/fb/9edc4fefd79a386528a8353412ed7058.mp3",
+        "type": "mp3",
+        "file": "a_se15_02.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/106.jpg",
+        "md5": "493edbf918f02cd72deab48c22fdafca",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a36ea88c0b1aaee85659f391e93c5464/54/c7/3e/cd/493edbf918f02cd72deab48c22fdafca.jpg",
+        "type": "image",
+        "file": "106.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se15_03.mp3",
+        "md5": "85ac0ba0a45ceba11092d5ee69507baf",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/dd9df935beda437b3b274a5974d24d21/8f/a2/49/f2/85ac0ba0a45ceba11092d5ee69507baf.mp3",
+        "type": "mp3",
+        "file": "a_se15_03.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se19_02.mp3",
+        "md5": "360c3ffddc28b96ad01e372203f50e60",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d68494c1620bdc6e3e3d74922a2d9bf4/5b/ae/24/d8/360c3ffddc28b96ad01e372203f50e60.mp3",
+        "type": "mp3",
+        "file": "a_se19_02.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/107.jpg",
+        "md5": "bd860ac768585343006956b2144b357a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3618531b3a99def9dc185de0b8b5ea68/00/60/bd860ac768585343006956b2144b357a.jpg",
+        "type": "image",
+        "file": "107.jpg"
+      },
+      {
+        "path": "adv/image/character/314301/image/108.jpg",
+        "md5": "ec3dc5fdabc5d0c83067e8ef1a0b4e71",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0ebde13c49f1cf91ab3aaaeaee1101e0/42/a9/3b/09/ec3dc5fdabc5d0c83067e8ef1a0b4e71.jpg",
+        "type": "image",
+        "file": "108.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_02.mp3",
+        "md5": "5146f71cc929b22cfe8a5b7481ee71ec",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/47787320284d13ae60b1100e5003a9c5/5d/47/50/5146f71cc929b22cfe8a5b7481ee71ec.mp3",
+        "type": "mp3",
+        "file": "a_se16_02.mp3"
+      },
+      {
+        "path": "adv/image/character/314301/image/109.jpg",
+        "md5": "a800861de834a6aa02978370b352d60e",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bfbc6cd717603100bb240f61f7f6cbb7/c7/04/5b/a800861de834a6aa02978370b352d60e.jpg",
+        "type": "image",
+        "file": "109.jpg"
+      },
+      {
+        "path": "adv/image/character/314301/image/110.jpg",
+        "md5": "64d9f4fec7f0af64ac3a13801e75b277",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1ddd19f0a3e97a22e15e2ac463b2cdee/c9/15/29/d0/64d9f4fec7f0af64ac3a13801e75b277.jpg",
+        "type": "image",
+        "file": "110.jpg"
+      }
+    ]
+  },
+  {
+    "storyId": 131430111,
+    "isAnimation": true,
+    "storyImageList": [],
+    "files": [
+      {
+        "path": "adv/image/character/314301/anm/a101.mp4",
+        "md5": "cc641e547043a3b47efa48ea7569a961",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/783d23ca2570816e515b5f89f98b75a1/9f/8e/0d/2d/cc641e547043a3b47efa48ea7569a961.mp4",
+        "type": "mp4",
+        "file": "a101.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a102.mp4",
+        "md5": "1d70cce9dbac333f0ca45906398c7495",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/eb3f7cc9f8d61237fb09d45bac7d8666/00/c9/1d70cce9dbac333f0ca45906398c7495.mp4",
+        "type": "mp4",
+        "file": "a102.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a103.mp4",
+        "md5": "7eac139cdf9edf06e7bad4cddaa39c54",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5a02d3d8c1f041116b536fd5a7063434/91/64/5b/7eac139cdf9edf06e7bad4cddaa39c54.mp4",
+        "type": "mp4",
+        "file": "a103.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a104.mp4",
+        "md5": "d345b5683652c287ab9eae01643ca5fb",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/806745a1f2ad5dec8ebf2d76da3ecf6c/3c/3a/fe/fe/d345b5683652c287ab9eae01643ca5fb.mp4",
+        "type": "mp4",
+        "file": "a104.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a104r.mp4",
+        "md5": "641fbb634fff19ef132d482e7a09944d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e55cfa32385722a17285703d19477de9/34/34/641fbb634fff19ef132d482e7a09944d.mp4",
+        "type": "mp4",
+        "file": "a104r.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a105.mp4",
+        "md5": "31a6a9e399dfe9d3b9dbedb711ff5e4a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1dcd48911b72dc3fccfb4d735c89fea4/0d/37/31a6a9e399dfe9d3b9dbedb711ff5e4a.mp4",
+        "type": "mp4",
+        "file": "a105.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a106.mp4",
+        "md5": "d100bc0a18270382625a5a3f6fe045f2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/21d44e006d734a7b82c29d500a8120e8/3e/36/d100bc0a18270382625a5a3f6fe045f2.mp4",
+        "type": "mp4",
+        "file": "a106.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a107.mp4",
+        "md5": "18890c4eedd7a388242c123f11570ed4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8bcfddb437fa24cd548d1e4d83794dfd/5f/b0/4c/65/18890c4eedd7a388242c123f11570ed4.mp4",
+        "type": "mp4",
+        "file": "a107.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a107r.mp4",
+        "md5": "5f0ac5657d7a31cfd4679bafcb7c470a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/62e21849299b38af1fd771b2254b0764/26/f1/5f0ac5657d7a31cfd4679bafcb7c470a.mp4",
+        "type": "mp4",
+        "file": "a107r.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a108.mp4",
+        "md5": "37815a014806877eade31de44c5ade96",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2f0d7f1c7cd7686b652c1425602c6bab/0c/28/37815a014806877eade31de44c5ade96.mp4",
+        "type": "mp4",
+        "file": "a108.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a109.mp4",
+        "md5": "501ede33daddb1bad728107d8c12ff42",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/40bd84d822d3fc56bf2096080406b9e2/ae/0e/d0/ca/501ede33daddb1bad728107d8c12ff42.mp4",
+        "type": "mp4",
+        "file": "a109.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a109r.mp4",
+        "md5": "c79fa9eb1a7ea483ea69a73e8f2e996c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/54974a02b384876a75f5172d5643db7d/eb/fd/8b/ea/c79fa9eb1a7ea483ea69a73e8f2e996c.mp4",
+        "type": "mp4",
+        "file": "a109r.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a110.mp4",
+        "md5": "306b9d639845b7d051e5f0aedabdfe45",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c0ddfc8fd054b13cde2d8817648c6f16/bd/e4/4c/306b9d639845b7d051e5f0aedabdfe45.mp4",
+        "type": "mp4",
+        "file": "a110.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a111.mp4",
+        "md5": "67514becbe80267c47fe853618070677",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a35784be50580e83d0307d32e551905b/20/d6/67514becbe80267c47fe853618070677.mp4",
+        "type": "mp4",
+        "file": "a111.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a111r.mp4",
+        "md5": "461f486cd998dfe29628bb1d93e22048",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/51bd16a3a841c16dcbf63c312bc8a611/00/47/461f486cd998dfe29628bb1d93e22048.mp4",
+        "type": "mp4",
+        "file": "a111r.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a112.mp4",
+        "md5": "4a446d498d1babed72130b8bd690e875",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/169799df9a1420dd1b4bcdd4c40db2bc/d8/aa/43/f7/4a446d498d1babed72130b8bd690e875.mp4",
+        "type": "mp4",
+        "file": "a112.mp4"
+      },
+      {
+        "path": "adv/image/character/314301/anm/a113.mp4",
+        "md5": "dd057c5cbb95dbfdd08b2285fb887f89",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c5b6130d9f49142a008d0d858c5b6ce8/5e/98/47/ac/dd057c5cbb95dbfdd08b2285fb887f89.mp4",
+        "type": "mp4",
+        "file": "a113.mp4"
+      },
+      {
+        "path": "adv/textfiles/story/chara314301_11MX.txt",
+        "md5": "658066afd34aeca70cec9a08567a57e5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c1344a7c47d9e4d2e57fe1e0a5424719/2e/5d/5d/658066afd34aeca70cec9a08567a57e5.txt",
+        "type": "txt",
+        "file": "script_ani1.txt"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_018.mp3",
+        "md5": "6bd2b5636646b97b5393952a8b46ec86",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5a0db6451295015cfdc19a83ff7b23d8/92/be/f4/1f/6bd2b5636646b97b5393952a8b46ec86.mp3",
+        "type": "mp3",
+        "file": "bgm_018.mp3"
+      },
+      {
+        "path": "/adv/sound/se/heart_2.mp3",
+        "md5": "dcfaf261a8a71e4106cba66ceb3933d4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ee85eb3889cbe2667f4146c09010510a/1f/97/dcfaf261a8a71e4106cba66ceb3933d4.mp3",
+        "type": "mp3",
+        "file": "heart_2.mp3"
+      },
+      {
+        "path": "/adv/sound/se/knock_1.mp3",
+        "md5": "6e596312932d614e038df2a4f4ae3245",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/343a9075af726eb81b8c9d81d48f582f/f6/fe/32/f1/6e596312932d614e038df2a4f4ae3245.mp3",
+        "type": "mp3",
+        "file": "knock_1.mp3"
+      },
+      {
+        "path": "/adv/sound/se/heart_1.mp3",
+        "md5": "d5c66f11b54c629afd9b66edae362893",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3ea317a29b2a732882d9c1b295abf0d3/23/19/57/d5c66f11b54c629afd9b66edae362893.mp3",
+        "type": "mp3",
+        "file": "heart_1.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_020.mp3",
+        "md5": "b9ada7223162e89821272224cbd38201",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/973b45e2fe9fee89ae189f97f0b0b9c3/35/2c/b9ada7223162e89821272224cbd38201.mp3",
+        "type": "mp3",
+        "file": "bgm_020.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_03.mp3",
+        "md5": "8392d831f4f4f2419886087056b964f5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b0eec448dc910b0b3f8a110312b17660/df/cd/47/8392d831f4f4f2419886087056b964f5.mp3",
+        "type": "mp3",
+        "file": "a_se29_03.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se27_02.mp3",
+        "md5": "dbf423a76fcd6c7b1ba45c98f4c78342",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d1c5e5d87020325c2af2c8cba94a5634/44/36/32/c5/dbf423a76fcd6c7b1ba45c98f4c78342.mp3",
+        "type": "mp3",
+        "file": "a_se27_02.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se22_drink02.mp3",
+        "md5": "36a438d373b77b9240797b178fe78efe",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8cc23e8dbc16ddf022b664683426b978/a0/8d/5b/07/36a438d373b77b9240797b178fe78efe.mp3",
+        "type": "mp3",
+        "file": "se22_drink02.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_01.mp3",
+        "md5": "4a8e9ac542d16e4cd547476e3cbf2029",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/974c0e79cd5372df6c1b4e91919b126c/7b/5e/ee/e9/4a8e9ac542d16e4cd547476e3cbf2029.mp3",
+        "type": "mp3",
+        "file": "a_se29_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se34_01.mp3",
+        "md5": "2ba3bbfb1c83cd23241ff9c4686ed83a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/07200d2f0b2e3f9e9da94b258fce2df8/f7/67/62/2ba3bbfb1c83cd23241ff9c4686ed83a.mp3",
+        "type": "mp3",
+        "file": "a_se34_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se10_01.mp3",
+        "md5": "3651c2f807f76d3fb5b5b48f1384c7d5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/de49a701231be3a5aa82acbb738f9889/8d/fb/54/3651c2f807f76d3fb5b5b48f1384c7d5.mp3",
+        "type": "mp3",
+        "file": "a_se10_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_03.mp3",
+        "md5": "1b431901e229a467474763d1bfefb60b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6c1b141df35b4c14a4b370a8538f4ba5/22/70/51/1b431901e229a467474763d1bfefb60b.mp3",
+        "type": "mp3",
+        "file": "a_se16_03.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se14_02.mp3",
+        "md5": "08263eb4320ef6d6cd2c85e6d5e3206b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1eb761a52f46ba621a3173a12deda70b/1d/e0/08263eb4320ef6d6cd2c85e6d5e3206b.mp3",
+        "type": "mp3",
+        "file": "a_se14_02.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se15_01.mp3",
+        "md5": "5652920bad7a59c7a555af41872734bc",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c5fdd490bf5fe0edae19b89a4d95f7d8/30/bc/5652920bad7a59c7a555af41872734bc.mp3",
+        "type": "mp3",
+        "file": "a_se15_01.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se14_03.mp3",
+        "md5": "f4a0116edc2985b5e1229f6f48d167d5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ab2ac99724a5eae51106a1344d6d82d9/cf/38/79/f4a0116edc2985b5e1229f6f48d167d5.mp3",
+        "type": "mp3",
+        "file": "a_se14_03.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se19_02.mp3",
+        "md5": "360c3ffddc28b96ad01e372203f50e60",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d68494c1620bdc6e3e3d74922a2d9bf4/5b/ae/24/d8/360c3ffddc28b96ad01e372203f50e60.mp3",
+        "type": "mp3",
+        "file": "a_se19_02.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_02.mp3",
+        "md5": "5146f71cc929b22cfe8a5b7481ee71ec",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/47787320284d13ae60b1100e5003a9c5/5d/47/50/5146f71cc929b22cfe8a5b7481ee71ec.mp3",
+        "type": "mp3",
+        "file": "a_se16_02.mp3"
       }
     ]
   }

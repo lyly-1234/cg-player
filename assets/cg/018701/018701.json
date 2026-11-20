@@ -1,6 +1,7 @@
 [
   {
     "storyId": 101870111,
+    "isAnimation": false,
     "storyImageList": [
       {
         "path": "adv/image/character/018701/image/101.jpg",
@@ -58,10 +59,622 @@
         "type": "image",
         "file": "108.jpg"
       }
+    ],
+    "files": [
+      {
+        "path": "adv/textfiles/story/chara018701_11X.txt",
+        "md5": "6d8186d237c04ab144915447a0813382",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1b634b285fd6068d0bd77024fe296d83/c0/95/a2/3a/6d8186d237c04ab144915447a0813382.txt",
+        "type": "txt",
+        "file": "script_cg1.txt"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_078.mp3",
+        "md5": "1faf21882574366906a69158e65c3393",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f5dd0621cd6a7f1283ce5a7e3f98982e/1a/f7/1faf21882574366906a69158e65c3393.mp3",
+        "type": "mp3",
+        "file": "bgm_078.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_01.mp3",
+        "md5": "0fb4edfa5876f87f13b2c5ad1a3e6fd6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4cb7f2dcda9c6bc6a72fcb33bc0da9c2/11/ff/0fb4edfa5876f87f13b2c5ad1a3e6fd6.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_01.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_02.mp3",
+        "md5": "0f62dd084a5e9931fd787a8906bd981e",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9cb5b09f999a52df4bcf3841a3ccd0b4/35/28/0f62dd084a5e9931fd787a8906bd981e.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_02.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_03.mp3",
+        "md5": "fa02a25decfb5a1382ba1e15feb72899",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/29a6c84a6623b9f0bb2bcdcc606c9cd1/ae/af/a4/ee/fa02a25decfb5a1382ba1e15feb72899.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_04.mp3",
+        "md5": "9fe89cfbe16caa839bd4dc3eabbae9a9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f239f7edd472ac516c4ec3b20eaf67e5/0f/f9/4d/9fe89cfbe16caa839bd4dc3eabbae9a9.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_04.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_05.mp3",
+        "md5": "e85c7ee2dcbcef2882e0ff0b30dd12a5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b950d0c0a26ba51d1c5c9af789065de5/73/92/f4/af/e85c7ee2dcbcef2882e0ff0b30dd12a5.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_05.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se22_drink03.mp3",
+        "md5": "eb8e4ccf9c934c7d883bcbd85fb84a5d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3c68cf151e16500dc7ad4c5e5614fab1/39/87/cb/22/eb8e4ccf9c934c7d883bcbd85fb84a5d.mp3",
+        "type": "mp3",
+        "file": "se22_drink03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_06.mp3",
+        "md5": "a1cc16baec09557dd9c6496a770862e3",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/806306abd49b359bbd49784c6cc2161f/0f/d0/9c/db/a1cc16baec09557dd9c6496a770862e3.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_06.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_07.mp3",
+        "md5": "3a49c6ca9bde42d8cbd50a7f8d179383",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/25078cebed24e62323ca8d8138ceee31/0e/aa/91/b9/3a49c6ca9bde42d8cbd50a7f8d179383.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_07.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_08.mp3",
+        "md5": "5cdecf473594cb7862f8383e12f18cc4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0058c719ef7f8ba868b6827978cb40f9/80/93/7a/f4/5cdecf473594cb7862f8383e12f18cc4.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_08.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_043.mp3",
+        "md5": "ae7fee10489584bf975951cf38568c69",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e59cb78e13ebaa8a59a7c188a0369e23/0b/4c/ae7fee10489584bf975951cf38568c69.mp3",
+        "type": "mp3",
+        "file": "bgm_043.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se32_01.mp3",
+        "md5": "9c02ceb242444bf4e2ba17d6d4f6b627",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/aa0f14004ac2f7e776897b62b7242c9c/ad/c3/54/c9/9c02ceb242444bf4e2ba17d6d4f6b627.mp3",
+        "type": "mp3",
+        "file": "a_se32_01.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_09.mp3",
+        "md5": "2992b6aee2e190b18dab9983c77886f8",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5690963ed193ef8a9403198ce6b9ddda/3f/db/45/2992b6aee2e190b18dab9983c77886f8.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_09.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_10.mp3",
+        "md5": "d1ad745b1c8005b25251b103f427ddf3",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2369ca3c75d3ed9480afa7f7cc75d82c/68/bc/78/c2/d1ad745b1c8005b25251b103f427ddf3.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_10.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_11.mp3",
+        "md5": "e3f67ab807eaed293e0478d17a5c2af7",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5d4b1579ad3f1a4ce2d862a30e62b9e1/b4/91/85/c2/e3f67ab807eaed293e0478d17a5c2af7.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_11.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_12.mp3",
+        "md5": "3c82ed8cb4026e5f73abb1a98e16cce9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/952d3f5608b55f7c5c0a9eb8c0bc673a/59/5e/6e/dd/3c82ed8cb4026e5f73abb1a98e16cce9.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_12.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_13.mp3",
+        "md5": "4996d83baf6191bf35e88bdd5f9581f6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/007514b6ad6d3c27dc3511bdc040904b/ac/c4/7c/4996d83baf6191bf35e88bdd5f9581f6.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_13.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_14.mp3",
+        "md5": "1f939e5085a02d4ca708921c5a89176c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b74556d83565dafadd3bc43062e32b68/04/b9/1f939e5085a02d4ca708921c5a89176c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_14.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_15.mp3",
+        "md5": "fd22fed42c7d3194e62a3d77b35387d8",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/768fd07416f9089216e415da99f3e2ef/83/66/53/fd22fed42c7d3194e62a3d77b35387d8.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_15.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se93_grip01.mp3",
+        "md5": "16aaf367ca1e480c5f21dc4f060a52c6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5c1c1709fc5c0a9b39314ef2a11faff4/b6/8d/e1/84/16aaf367ca1e480c5f21dc4f060a52c6.mp3",
+        "type": "mp3",
+        "file": "se93_grip01.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_16.mp3",
+        "md5": "6dbb8b49c15de93368b81eaa2aa8775f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5e9f78a91c7ab1a27932b546d1474b48/f5/a2/0e/f9/6dbb8b49c15de93368b81eaa2aa8775f.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_16.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_17.mp3",
+        "md5": "c424acec1caeeb1b114a7bab2d0482a8",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/dbaac026540f80eacaf409a2b67769f5/e8/31/d3/d5/c424acec1caeeb1b114a7bab2d0482a8.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_17.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_18.mp3",
+        "md5": "015b7ffac7294f16e479d453e5095cc8",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ebcd1099f2d2d99e44d4a6ede6f7bdfb/0b/dd/7a/015b7ffac7294f16e479d453e5095cc8.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_18.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_020.mp3",
+        "md5": "b9ada7223162e89821272224cbd38201",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/973b45e2fe9fee89ae189f97f0b0b9c3/35/2c/b9ada7223162e89821272224cbd38201.mp3",
+        "type": "mp3",
+        "file": "bgm_020.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/101.jpg",
+        "md5": "b69daab092550f8ee350ec22c8194475",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2a8a57aa190de9b1f6b2316330146d13/38/14/b69daab092550f8ee350ec22c8194475.jpg",
+        "type": "image",
+        "file": "101.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_19.mp3",
+        "md5": "eec0da2ebb0ffe6ac24f55646c15b99d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/48342c6d54c9afdc4e7078f3621ce461/4a/8c/a5/5a/eec0da2ebb0ffe6ac24f55646c15b99d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_19.mp3"
+      },
+      {
+        "path": "/adv/sound/se/heart_1.mp3",
+        "md5": "d5c66f11b54c629afd9b66edae362893",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3ea317a29b2a732882d9c1b295abf0d3/23/19/57/d5c66f11b54c629afd9b66edae362893.mp3",
+        "type": "mp3",
+        "file": "heart_1.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_20.mp3",
+        "md5": "b87535232138588e24ffd6f60f32dc5c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e6b86750023fdb9a7f0583193469d171/11/8b/d9/46/b87535232138588e24ffd6f60f32dc5c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_20.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_21.mp3",
+        "md5": "903a935761ea5186e0664739501768d1",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8386479b208b9c562cb8ef1bd64bcf30/1b/a8/92/cb/903a935761ea5186e0664739501768d1.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_21.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_22.mp3",
+        "md5": "5cc68ffc3231be43a991c11603095a23",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/391223738ee3a490fed80808e024ffc2/2a/bb/5cc68ffc3231be43a991c11603095a23.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_22.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_23.mp3",
+        "md5": "a96db5ea221377c6fc348c5dc0b69621",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f5f06a7dd1b0bf194e5ccabb798009f2/2e/aa/7c/be/a96db5ea221377c6fc348c5dc0b69621.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_23.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_24.mp3",
+        "md5": "8e9bc4f99290fc59bcd72a37f2b468c9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8b4cab2e3b07d3ad8afc30a182beb729/14/15/8e9bc4f99290fc59bcd72a37f2b468c9.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_24.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/102.jpg",
+        "md5": "d11c239f7c58089fba85c878b1fe9f50",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bd638865139a08f5033a60dd1f688f56/44/4f/2a/f3/d11c239f7c58089fba85c878b1fe9f50.jpg",
+        "type": "image",
+        "file": "102.jpg"
+      },
+      {
+        "path": "/adv/sound/se/heart_2.mp3",
+        "md5": "dcfaf261a8a71e4106cba66ceb3933d4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ee85eb3889cbe2667f4146c09010510a/1f/97/dcfaf261a8a71e4106cba66ceb3933d4.mp3",
+        "type": "mp3",
+        "file": "heart_2.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_25.mp3",
+        "md5": "13b93e26022483fdf099e3a77d02f774",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9c561d14a63ce041911a838fb0ea0789/fc/92/ac/ba/13b93e26022483fdf099e3a77d02f774.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_25.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_26.mp3",
+        "md5": "9269271118eba48073b098ebe367e866",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bc65f1a04ed3364ed5c8347680480d29/c9/5d/61/9269271118eba48073b098ebe367e866.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_26.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_27.mp3",
+        "md5": "52dafe2aadfe6fd34a1470b6ba3313fb",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4469c32377e58d4efc0437e967ea4b61/07/1b/52dafe2aadfe6fd34a1470b6ba3313fb.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_27.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_28.mp3",
+        "md5": "b7ecfbb8518707715245173582154c60",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/212a4e9b38e50f661288d7c1ffae0ce3/0e/05/b7ecfbb8518707715245173582154c60.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_28.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_29.mp3",
+        "md5": "1da45ef58f7ed6a8b332f9dcc20fcd5c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/5f0012f51716541b7bd44cf03e099320/b8/2a/5b/1da45ef58f7ed6a8b332f9dcc20fcd5c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_29.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_30.mp3",
+        "md5": "a5b36e9aa15b40a62aae732330383f81",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bb98b193ab2864da27b0af8d3eba682b/64/e3/55/a5b36e9aa15b40a62aae732330383f81.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_30.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_03.mp3",
+        "md5": "8392d831f4f4f2419886087056b964f5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b0eec448dc910b0b3f8a110312b17660/df/cd/47/8392d831f4f4f2419886087056b964f5.mp3",
+        "type": "mp3",
+        "file": "a_se29_03.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/103.jpg",
+        "md5": "e2557b4283fdf09fcfad761d950275f9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/984157cfa5a905ed0ec251eb17bc2392/eb/be/a1/01/e2557b4283fdf09fcfad761d950275f9.jpg",
+        "type": "image",
+        "file": "103.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_31.mp3",
+        "md5": "5b868d98e19198f61a9ca7ff92faace0",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/735004ff5b73e45f43f0964716a48ba2/16/d5/c0/d5/5b868d98e19198f61a9ca7ff92faace0.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_31.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_32.mp3",
+        "md5": "f974fedaced1685437cb8cb6dd2203a3",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c86ac324d09447f4866b33dd02f607c2/d5/ab/67/26/f974fedaced1685437cb8cb6dd2203a3.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_32.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_33.mp3",
+        "md5": "27f890a4b34e455b657eb87143cdfffe",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4f0c55b8c60a28c0277c053edb701aac/23/5d/27f890a4b34e455b657eb87143cdfffe.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_33.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_34.mp3",
+        "md5": "1347bf268167b27e39b56a77aaa803d7",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/258b1f1a55bcb6dba49df01a93351234/49/ee/75/1347bf268167b27e39b56a77aaa803d7.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_34.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_35.mp3",
+        "md5": "022bc5d1038f2fba513f92c84a50b70d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f7f3597a0a50c0a26b3fb64c18ff36df/05/2a/022bc5d1038f2fba513f92c84a50b70d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_35.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_36.mp3",
+        "md5": "e8df801b08b0db7f6ef84a57e9957c12",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6c2a2ecc0f7c13127d40adf607c17393/28/85/62/e2/e8df801b08b0db7f6ef84a57e9957c12.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_36.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_37.mp3",
+        "md5": "ccc9b67ba7727fb8f2029f3d2a739d1d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ba5a799d95de99c15c4321c8edd680db/b9/a5/a5/ca/ccc9b67ba7727fb8f2029f3d2a739d1d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_37.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_38.mp3",
+        "md5": "fc0f16475134aa57c16061cabbefd063",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/116db018900adda59d4b25cfa8c752cb/76/c8/61/fc0f16475134aa57c16061cabbefd063.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_38.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_39.mp3",
+        "md5": "8d9924426ba7af67e6872f8893e9d5ae",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0ef047df58db8f520325a96023e7c818/87/83/43/8d9924426ba7af67e6872f8893e9d5ae.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_39.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/104.jpg",
+        "md5": "34a76ce6c1414c04a98f11185af2a095",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/64305fddaf9101ee62f89c75975b2628/1e/55/4a/34a76ce6c1414c04a98f11185af2a095.jpg",
+        "type": "image",
+        "file": "104.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_02.mp3",
+        "md5": "5146f71cc929b22cfe8a5b7481ee71ec",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/47787320284d13ae60b1100e5003a9c5/5d/47/50/5146f71cc929b22cfe8a5b7481ee71ec.mp3",
+        "type": "mp3",
+        "file": "a_se16_02.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_40.mp3",
+        "md5": "ecee83db3e1b4dbf027e5b5d597e0dd9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b8d5e8c5cb02329becda74a06c10d8f0/2f/3b/59/ecee83db3e1b4dbf027e5b5d597e0dd9.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_40.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_41.mp3",
+        "md5": "0521e58b2de05e97dabdc887021162d1",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/69bb07de3fb205c914573c7b5cb54f86/8a/0f/70/0521e58b2de05e97dabdc887021162d1.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_41.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_42.mp3",
+        "md5": "50381ad8bac70a4d4924e79938aee5db",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6e99e72e98b2977b10639297bc1904ec/98/f0/79/50381ad8bac70a4d4924e79938aee5db.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_42.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_43.mp3",
+        "md5": "a53d882c97bef2ce3f2fc4164bbce3df",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c97e7bf168e7abc24dbbea4633b4a93f/e9/97/08/8a/a53d882c97bef2ce3f2fc4164bbce3df.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_43.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_03.mp3",
+        "md5": "1b431901e229a467474763d1bfefb60b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/6c1b141df35b4c14a4b370a8538f4ba5/22/70/51/1b431901e229a467474763d1bfefb60b.mp3",
+        "type": "mp3",
+        "file": "a_se16_03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_44.mp3",
+        "md5": "653851457c7d268971917c57839f760b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8a340c5a080187ac649f05fe84e39de9/fa/c8/53/653851457c7d268971917c57839f760b.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_44.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/105.jpg",
+        "md5": "90cf23680b34d386b3dc5c1166f6be32",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7460c37b52a21662df421e91b5a5e5b6/68/86/5f/50/90cf23680b34d386b3dc5c1166f6be32.jpg",
+        "type": "image",
+        "file": "105.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_45.mp3",
+        "md5": "738edc6f3b028305ad82cd7f42db81d7",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2629c08b4263f7f4421c0bc1ed7e72cb/68/6c/7e/738edc6f3b028305ad82cd7f42db81d7.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_45.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_46.mp3",
+        "md5": "e828660ca96a7e4de313f3fabb6c43b9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/64af4a6625956e390e3334d2133bf72e/65/bb/32/fc/e828660ca96a7e4de313f3fabb6c43b9.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_46.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se17_01.mp3",
+        "md5": "c585c02aa0094a3309d3662c24e39015",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a188d70c73192450e9ded81bc53b2b5c/32/23/c585c02aa0094a3309d3662c24e39015.mp3",
+        "type": "mp3",
+        "file": "a_se17_01.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_47.mp3",
+        "md5": "b0502632d45544cf1bd31a71ec666852",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/071a2543337567aa0610eb653e7fb359/52/65/f6/e1/b0502632d45544cf1bd31a71ec666852.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_47.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_48.mp3",
+        "md5": "c9645e69650a81fae39bb5c5a66ff7aa",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/0fd2d9811d636294cdec00de76c0490e/3c/3d/c9645e69650a81fae39bb5c5a66ff7aa.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_48.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_49.mp3",
+        "md5": "b34b41fa93368f192a2a3ca2346e7c4a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/985ca507ab76f81d40cceb515310f606/25/c7/b34b41fa93368f192a2a3ca2346e7c4a.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_49.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se17_02.mp3",
+        "md5": "229fe963796fdcc3afd62ac697b41b5c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8030637ac079a2c7247587bf02d33330/a1/81/81/2a/229fe963796fdcc3afd62ac697b41b5c.mp3",
+        "type": "mp3",
+        "file": "a_se17_02.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_50.mp3",
+        "md5": "373c228158197c23a05d004c7df22e09",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1b528206197d585c93b411b6e005002f/2d/4a/373c228158197c23a05d004c7df22e09.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_50.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/106.jpg",
+        "md5": "7fade8d14fe675cacd7b793b96c1d893",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/dd99d48ac6790c26b0d3c3b17d2d00ee/7f/ad/ad/59/7fade8d14fe675cacd7b793b96c1d893.jpg",
+        "type": "image",
+        "file": "106.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_51.mp3",
+        "md5": "0399ac7953ef7d612e142a18a72fc428",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/08b2f7c918aa8a1e4738073a7efb6ffd/25/c9/67/0399ac7953ef7d612e142a18a72fc428.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_51.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_52.mp3",
+        "md5": "f6237b918ea615f04b949dcf144dfe8c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a14bdfd405bedfa29a9f7070d57a684e/f3/b6/d1/e4/f6237b918ea615f04b949dcf144dfe8c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_52.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_53.mp3",
+        "md5": "d7b8a6eee159acf467c48849fcbb30bf",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/44790cab454372416f04dad9ab2f31c1/d5/fa/73/f6/d7b8a6eee159acf467c48849fcbb30bf.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_53.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_54.mp3",
+        "md5": "ecd33b0dd80a6d16f798d7e115614d1c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4ba1b0cd6662474b34459872e21cb117/93/9d/ea/bb/ecd33b0dd80a6d16f798d7e115614d1c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_54.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se17_03.mp3",
+        "md5": "9b5234a5f533afe3d899b8e212a542ea",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2b1f42339ad78bd634912726f4dcebf3/08/90/9b5234a5f533afe3d899b8e212a542ea.mp3",
+        "type": "mp3",
+        "file": "a_se17_03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_55.mp3",
+        "md5": "e170bf9305135d4f5bbb005c803e944a",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3068e0e5a4e17b5528b7d960a8ad21c7/e4/4d/7b/e170bf9305135d4f5bbb005c803e944a.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_55.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se19_02.mp3",
+        "md5": "360c3ffddc28b96ad01e372203f50e60",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d68494c1620bdc6e3e3d74922a2d9bf4/5b/ae/24/d8/360c3ffddc28b96ad01e372203f50e60.mp3",
+        "type": "mp3",
+        "file": "a_se19_02.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/107.jpg",
+        "md5": "1aec07cf546a1c0defe776c787a855b2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/34afd10ea4ef0af912fb04bf5b6f8c98/67/11/41/e0/1aec07cf546a1c0defe776c787a855b2.jpg",
+        "type": "image",
+        "file": "107.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_56.mp3",
+        "md5": "5aaa8919133a12a4fecf827053ddbcef",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/667f0e9085da407a51d39f4c3879f147/44/82/0b/e2/5aaa8919133a12a4fecf827053ddbcef.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_56.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_57.mp3",
+        "md5": "2f527ce3ba5a70f97c023ebc91c9dbdc",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/21bf1c54ebf805b8ed9bf0f57ca2f9c9/e3/a2/c7/01/2f527ce3ba5a70f97c023ebc91c9dbdc.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_57.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/108.jpg",
+        "md5": "6a3c06aa1ef41e3cf582a453e677bb93",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ae01f4a96f66acdb30b3237b7c5aa4b7/61/95/69/6a3c06aa1ef41e3cf582a453e677bb93.jpg",
+        "type": "image",
+        "file": "108.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_58.mp3",
+        "md5": "65f6a108900fdc33407c7972052b4f94",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/89adf7d2b26610dd34204761a2eeda8b/28/83/65f6a108900fdc33407c7972052b4f94.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_58.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_120.mp3",
+        "md5": "3f62a1e81400fbecd7309fa4c91e5179",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8408710b1276c9fa7a1294a7a9777393/86/91/47/3f62a1e81400fbecd7309fa4c91e5179.mp3",
+        "type": "mp3",
+        "file": "bgm_120.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_59.mp3",
+        "md5": "577cb51eaae085f537805201ab2e8230",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d3b004ff71534e2528d28139d1dd4a70/1b/74/577cb51eaae085f537805201ab2e8230.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_59.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_60.mp3",
+        "md5": "27231d24bae76fb2d998cecd03902476",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8eb0b7b0521220e36837f06ff31eb48b/27/b9/3b/df/27231d24bae76fb2d998cecd03902476.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_60.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_61.mp3",
+        "md5": "16bb7839aa3870b059a3a773f0935b7d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7bb6408bd7b4ea28ef71eeae7c745c6a/94/28/43/16bb7839aa3870b059a3a773f0935b7d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_61.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_01_62.mp3",
+        "md5": "124f896816229f1aac0978ab939dbf5b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/218b9fc9fd40b41a66d7fcc1e2c71fe5/d4/33/a8/e7/124f896816229f1aac0978ab939dbf5b.mp3",
+        "type": "mp3",
+        "file": "adu_0187_01_62.mp3"
+      }
     ]
   },
   {
     "storyId": 101870112,
+    "isAnimation": false,
     "storyImageList": [
       {
         "path": "adv/image/character/018701/image/201.jpg",
@@ -111,6 +724,547 @@
         "url": "https://gg-resource.crave-saga.net/1.0.0/f02b7ff9d92e7e83376d45be48ba7e56/7b/7f/5f/7f691fe3bff271d9cf82b8867214bc3b.jpg",
         "type": "image",
         "file": "207.jpg"
+      }
+    ],
+    "files": [
+      {
+        "path": "adv/textfiles/story/chara018701_12X.txt",
+        "md5": "c56c0b5b9bcffa6cd0aa70cfdfc5ab93",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f536a9cc567040d3c5aedf8c3fc5e07b/78/a0/77/f7/c56c0b5b9bcffa6cd0aa70cfdfc5ab93.txt",
+        "type": "txt",
+        "file": "script_cg2.txt"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_032.mp3",
+        "md5": "3125a81ad858d2d8018c9fa6a7a70aed",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d53c46de2699263ac2595c3cb7944f16/56/4c/13/f2/3125a81ad858d2d8018c9fa6a7a70aed.mp3",
+        "type": "mp3",
+        "file": "bgm_032.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_01.mp3",
+        "md5": "2e18cd8a9e29978ecb376a4222fcf345",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d8033ca2474e46990ddc5c7313b7e53e/5a/ac/c0/cd/2e18cd8a9e29978ecb376a4222fcf345.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_01.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_02.mp3",
+        "md5": "1bc387b0265e4cbbc61cecfbcd0a2ec2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f10d65b154da20633b606a80614a8c2d/4f/d9/58/1bc387b0265e4cbbc61cecfbcd0a2ec2.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_02.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_03.mp3",
+        "md5": "088e85946eb9e2ef356bf033f11b6efe",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/eb272ff61d172d0a6885576e08cd5dea/01/9f/8f/d8/088e85946eb9e2ef356bf033f11b6efe.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_04.mp3",
+        "md5": "fe973331aa4293f907d8cd5d18df220d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e9e1e276abf0558d9691d6f4930708aa/13/47/5f/fe973331aa4293f907d8cd5d18df220d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_04.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_05.mp3",
+        "md5": "56cb2f551db8f2a92583869d823dd00d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3d920613ee6ad4c90c6e28b68ccd1c7e/24/60/56cb2f551db8f2a92583869d823dd00d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_05.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_06.mp3",
+        "md5": "8e18b3f6e1058792a7011785b5de3459",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/bd2ec9cc10d829dbc3ccfe797aeee7d1/56/c9/9b/e8/8e18b3f6e1058792a7011785b5de3459.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_06.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_059.mp3",
+        "md5": "5cc3a761a8eba447e573b2d31bd83fa2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/46dc2e9b46c1565e1a6cf126f898618d/02/f6/7c/5cc3a761a8eba447e573b2d31bd83fa2.mp3",
+        "type": "mp3",
+        "file": "bgm_059.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_07.mp3",
+        "md5": "4ff91b0d58ada82205928d6e35d67967",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b8b1896efe8c23a2a738b39b3e1a19c5/2a/45/4ff91b0d58ada82205928d6e35d67967.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_07.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_08.mp3",
+        "md5": "57a37f8b90050d476d7df23a011046a6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7bd7b1263d2f525495b897a438eaf1b7/59/80/01/26/57a37f8b90050d476d7df23a011046a6.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_08.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_09.mp3",
+        "md5": "e16b875f9e62e15291a66ba9ea624e29",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/357014b87394ae75afe932720132c23d/c7/69/f0/fc/e16b875f9e62e15291a66ba9ea624e29.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_09.mp3"
+      },
+      {
+        "path": "adv/sound/se/se31_impact03.mp3",
+        "md5": "4f22e582f68bd552c65a0bbe728a2db5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4c547f1a8535063f051fd841b648d1cd/67/88/ef/c8/4f22e582f68bd552c65a0bbe728a2db5.mp3",
+        "type": "mp3",
+        "file": "se31_impact03.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_10.mp3",
+        "md5": "65e81d1838e444af7cb636a5c306bb73",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f03f7a043dc9ff74bfaa06bf606496d0/89/b4/7e/65e81d1838e444af7cb636a5c306bb73.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_10.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_11.mp3",
+        "md5": "1a092ea5f852835feb6d6dac2192bdf1",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/8f1d5a710bf2900c901542aae2132e84/15/b2/1a092ea5f852835feb6d6dac2192bdf1.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_11.mp3"
+      },
+      {
+        "path": "/adv/sound/se/down_1.mp3",
+        "md5": "f997fd085d4ad37890a287480176a700",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ad0fd8539d4ff767c742326ad178c07f/bb/99/76/f997fd085d4ad37890a287480176a700.mp3",
+        "type": "mp3",
+        "file": "down_1.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/201.jpg",
+        "md5": "8bad604810a858e9e6e0427edd40ea75",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4bfcb353b9d5200c17dea31b100eaa49/20/93/8bad604810a858e9e6e0427edd40ea75.jpg",
+        "type": "image",
+        "file": "201.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se25_04.mp3",
+        "md5": "cac96a242df237f826f79000512bd67f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1e9537149c2a4f3e08906402a75bd2e3/3e/b9/cac96a242df237f826f79000512bd67f.mp3",
+        "type": "mp3",
+        "file": "a_se25_04.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_12.mp3",
+        "md5": "19e016335b0a3e6ad530aa9f0a6f674f",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9231c7a587196c7c54b70bb5ccf7ce90/23/95/62/19e016335b0a3e6ad530aa9f0a6f674f.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_12.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_13.mp3",
+        "md5": "50aa9368df4145430801c76a5ba0bbdd",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/75bb068e4553dcb4ad36da2bdb2538ee/64/45/f0/f3/50aa9368df4145430801c76a5ba0bbdd.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_13.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_14.mp3",
+        "md5": "5d4f0e06152c5db4f0b0300574a5dd65",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c26438bdc7e9df035bde03bcedd19c6b/38/70/5d4f0e06152c5db4f0b0300574a5dd65.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_14.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_15.mp3",
+        "md5": "7efcbaa5016d6a6421b66257206865de",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/22441ff71e5ab0baf7d6b20df1c6a4a7/19/05/75/7efcbaa5016d6a6421b66257206865de.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_15.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_16.mp3",
+        "md5": "57dd60c2aae3a1af2a1f93c0ff82b8d1",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/dcff5a8b3c7d5a3dac40aba86634615d/69/98/cf/a8/57dd60c2aae3a1af2a1f93c0ff82b8d1.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_16.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_17.mp3",
+        "md5": "8fce0cfa0b680d04c3bc06612474312b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b28dd1071067a78d5466e52cfa72db1e/1b/21/45/fd/8fce0cfa0b680d04c3bc06612474312b.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_17.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se91_fire09.mp3",
+        "md5": "9d56b41b76af6a67c88a0d9ee80ea396",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e98fb31c6086097b74f24fc72344cff6/eb/8e/81/e4/9d56b41b76af6a67c88a0d9ee80ea396.mp3",
+        "type": "mp3",
+        "file": "se91_fire09.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/202.jpg",
+        "md5": "4ac9ddb573573810bcd46c7bef86ebcc",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/01defbd251a01cedf65a4d92172a17d5/a9/c0/5b/4ac9ddb573573810bcd46c7bef86ebcc.jpg",
+        "type": "image",
+        "file": "202.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_18.mp3",
+        "md5": "f24a4718f1d20296f482cc43fa42ca52",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2dc418eca9349ae20842f4ef98a904f1/01/25/48/f24a4718f1d20296f482cc43fa42ca52.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_18.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_19.mp3",
+        "md5": "ed5b07469347e1d5f080d6b3b1095249",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/a5f3eae4e8689ec42ff081a4d20d80e3/1f/a5/ed5b07469347e1d5f080d6b3b1095249.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_19.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_20.mp3",
+        "md5": "587cbdbf653c98cb6dbc9a80b200d391",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7ecea5dec472d6a1e8e4b61915749842/e7/89/15/d0/587cbdbf653c98cb6dbc9a80b200d391.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_20.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_21.mp3",
+        "md5": "37fc81e0da845892a950013be4929fbf",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/702bfd08f292a803ee5c77d78cd466b9/32/1c/37fc81e0da845892a950013be4929fbf.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_21.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_22.mp3",
+        "md5": "183b88d16d5b0fb32021e90b13b92d16",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f811d5cf14acfd727a19ebe8f67e1420/a9/9a/88/ef/183b88d16d5b0fb32021e90b13b92d16.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_22.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se29_02.mp3",
+        "md5": "ec4b98f188fd45b4340194ca494c38ed",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/2914ebc552e59b88c452f2dda98795c5/0f/e6/ec4b98f188fd45b4340194ca494c38ed.mp3",
+        "type": "mp3",
+        "file": "a_se29_02.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/203.jpg",
+        "md5": "768a504aec37005757619735de6541fa",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9fd30075e31957c319311a1bb363565a/eb/9a/0f/22/768a504aec37005757619735de6541fa.jpg",
+        "type": "image",
+        "file": "203.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_23.mp3",
+        "md5": "9fb06d92e075971345f748cd88763906",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/9efd2743d4eeb4583708ac844fbdbf89/fd/1e/c1/c0/9fb06d92e075971345f748cd88763906.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_23.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_24.mp3",
+        "md5": "29394c21318285e7cb6750f99e6f4c26",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e231f71d8cb4f7e49e920c7060734aab/cd/56/75/29394c21318285e7cb6750f99e6f4c26.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_24.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_25.mp3",
+        "md5": "6d42015e747cf385046f99f43215b6e4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7925ed09f7cc21873351302696552dcb/28/89/6d42015e747cf385046f99f43215b6e4.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_25.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_26.mp3",
+        "md5": "d49776a87608d59e981f25ddaeac5324",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/68737460ca26b35b46c28afbe21fef92/c4/61/47/cc/d49776a87608d59e981f25ddaeac5324.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_26.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_27.mp3",
+        "md5": "a08a544cb45be753623d4ad06336352d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d3bd2640292e8b5a8128fc2d042adda3/00/eb/78/a08a544cb45be753623d4ad06336352d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_27.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_28.mp3",
+        "md5": "4adb6af674be504a9eab2df0f9a7a5f1",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c6299b96b5ffb414a8aa02cc3d75fe60/26/8f/91/cd/4adb6af674be504a9eab2df0f9a7a5f1.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_28.mp3"
+      },
+      {
+        "path": "/adv/sound/se/a_se16_01.mp3",
+        "md5": "464eca8f18284760a23cb876f0bb4ffd",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/fa30187d967d4bc9aa3d86668bc7a1f6/b2/db/d1/e1/464eca8f18284760a23cb876f0bb4ffd.mp3",
+        "type": "mp3",
+        "file": "a_se16_01.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/204.jpg",
+        "md5": "a2c25d6c38499f499d2eea8d02f09d38",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/cc9fa9e75c5d1acb11efe3544b463f19/2d/24/a2c25d6c38499f499d2eea8d02f09d38.jpg",
+        "type": "image",
+        "file": "204.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_29.mp3",
+        "md5": "ea4595e27ed7b0e7cc27c34ccd0f1cff",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/921075b447c5f6cb847d245e4e9e1cfa/89/8f/18/b2/ea4595e27ed7b0e7cc27c34ccd0f1cff.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_29.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_30.mp3",
+        "md5": "3837504bb42b3fddc758c0590d2d437d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/95fd094dc37eb5557ea07b1a12f08862/1d/5e/3837504bb42b3fddc758c0590d2d437d.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_30.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_31.mp3",
+        "md5": "aef7af5cc110bdbceaa09f4326e2cdd5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/79cfdc8feb1cf157906ec245519ae65e/28/d3/aef7af5cc110bdbceaa09f4326e2cdd5.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_31.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_32.mp3",
+        "md5": "a5f27e03ea1fe5c02677e2163bd9a011",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7484ca5273776b680da64f82d6105e5e/54/32/68/a5f27e03ea1fe5c02677e2163bd9a011.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_32.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_33.mp3",
+        "md5": "cd4a167e4e4977c8a6a91743f8c13fc4",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/04e97e5df8c99e848aad8018c0d0cffc/fe/d9/4e/cd4a167e4e4977c8a6a91743f8c13fc4.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_33.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_34.mp3",
+        "md5": "d55f3a7155a23dfb56de40c29c34d6ba",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/66c3c3398de2bb4e5cb642203b41c51f/ac/b9/00/00/d55f3a7155a23dfb56de40c29c34d6ba.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_34.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/205.jpg",
+        "md5": "76aa460760fe33e3c8dc1a9ef6f352cd",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d1f0d541b844437a5e9ccba014dcc03b/0b/6b/a9/c6/76aa460760fe33e3c8dc1a9ef6f352cd.jpg",
+        "type": "image",
+        "file": "205.jpg"
+      },
+      {
+        "path": "/adv/sound/se/a_se25_02.mp3",
+        "md5": "20f1e221b15916099c85f455d66051af",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/73eacba5c007647a0a733d601a0b71db/e4/87/98/2d/20f1e221b15916099c85f455d66051af.mp3",
+        "type": "mp3",
+        "file": "a_se25_02.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_35.mp3",
+        "md5": "d2c59bfa8840ee195f42ad357eabf73c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f31fb22b6c165c3e70f43b4b00aaf775/11/e9/d2c59bfa8840ee195f42ad357eabf73c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_35.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_36.mp3",
+        "md5": "ff92a9fdfa64d44fd1be8a71e3f05d97",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/373502e45a58b622ff058edd072f9681/70/bf/05/72/ff92a9fdfa64d44fd1be8a71e3f05d97.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_36.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_37.mp3",
+        "md5": "c563e7dcf0e222e912c59b280a28bd8c",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/e20bd1531160809de2aa13993e641849/57/fd/a3/de/c563e7dcf0e222e912c59b280a28bd8c.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_37.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_38.mp3",
+        "md5": "8f058de5d98680e07d3b643bf1705064",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/3fd25386e5d1b4d8a350d0ce37a843e9/12/20/8f058de5d98680e07d3b643bf1705064.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_38.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_39.mp3",
+        "md5": "afd79d0fe602408bfe4cb1d2f6125bfb",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f26473087b5c5a9015e004843376cc30/bf/3f/59/c0/afd79d0fe602408bfe4cb1d2f6125bfb.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_39.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_40.mp3",
+        "md5": "ca5bfb2359c3882be76c31c50ecc00d6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4d1313ab6d714a54edca5e488bb57cc7/55/d1/6e/ca5bfb2359c3882be76c31c50ecc00d6.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_40.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_41.mp3",
+        "md5": "9eeb2220c1a01b0e16e6c1c21a63a157",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/95a1a70b483c1ec568b2d004ec7644e1/23/88/9eeb2220c1a01b0e16e6c1c21a63a157.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_41.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/206.jpg",
+        "md5": "de8ef9b53c711730b658a0fb28030269",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b3a3b3b2fe7451edcdabc19457f4ae61/3c/b9/fe/29/de8ef9b53c711730b658a0fb28030269.jpg",
+        "type": "image",
+        "file": "206.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_42.mp3",
+        "md5": "84e48005821946446171ae996c527ec7",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1ce08e04ceb629e672b4c05dbf66cc56/06/89/84e48005821946446171ae996c527ec7.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_42.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_43.mp3",
+        "md5": "670aa553ad093ea384429f185165eec6",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/34bde5aab7553eccb1d6e50dd6f98664/2e/a5/15/e9/670aa553ad093ea384429f185165eec6.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_43.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_44.mp3",
+        "md5": "dcca62ee5ef6b81b3a668269e92ee6ab",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4f674838f0390c1522cced4deb124bc0/d8/c5/0a/ca/dcca62ee5ef6b81b3a668269e92ee6ab.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_44.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_45.mp3",
+        "md5": "6747c1e7fbe9b7a64b4438405bab3cd5",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/c6e5bbbbe8bb169f233f49bda78ce86e/83/61/68/6747c1e7fbe9b7a64b4438405bab3cd5.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_45.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_46.mp3",
+        "md5": "3c630152d13af91c0aadd9d73c7c3c70",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d7e62fa49d3299feb4249bc28c2c0b79/72/3c/75/d3/3c630152d13af91c0aadd9d73c7c3c70.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_46.mp3"
+      },
+      {
+        "path": "adv/image/character/018701/image/207.jpg",
+        "md5": "7f691fe3bff271d9cf82b8867214bc3b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/f02b7ff9d92e7e83376d45be48ba7e56/7b/7f/5f/7f691fe3bff271d9cf82b8867214bc3b.jpg",
+        "type": "image",
+        "file": "207.jpg"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_47.mp3",
+        "md5": "035718d1d01cd74ead6cfadfbd56e3dd",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/4eceed63c1149775b7f00d6d8800fb22/61/a2/e3/92/035718d1d01cd74ead6cfadfbd56e3dd.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_47.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_48.mp3",
+        "md5": "5a8727703fde646dc15ad804bfeb9d05",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/90cc2fde9183f4bf452530e7916aa8f1/22/7f/5a8727703fde646dc15ad804bfeb9d05.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_48.mp3"
+      },
+      {
+        "path": "/adv/sound/bgm/bgm_022.mp3",
+        "md5": "616c46f93d3f381e2823504d08477b6d",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/20db0ffe5665d3a8a3447669be220108/17/0d/616c46f93d3f381e2823504d08477b6d.mp3",
+        "type": "mp3",
+        "file": "bgm_022.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_49.mp3",
+        "md5": "276ace2bf3ff02e0a6ce1ead6d5288ab",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/14b26fc6ce77139f4682c1c8c05b9881/9f/47/42/276ace2bf3ff02e0a6ce1ead6d5288ab.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_49.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_50.mp3",
+        "md5": "35bdc6e710acf3a30bfef649bb33b311",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/ed4140395179604fc7e6d5282a4c4bc2/32/7d/35bdc6e710acf3a30bfef649bb33b311.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_50.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_51.mp3",
+        "md5": "f380565648d14ef1838eb93bbf674360",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/d84680aacd60a46e13480a8799c7b13d/6c/89/07/28/f380565648d14ef1838eb93bbf674360.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_51.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se15_wind14.mp3",
+        "md5": "bd09408caf96f6d0cf9cbbc2d3f3334b",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/94d47737c386c432b736d5907401b2ba/3b/7b/bd09408caf96f6d0cf9cbbc2d3f3334b.mp3",
+        "type": "mp3",
+        "file": "se15_wind14.mp3"
+      },
+      {
+        "path": "adv/sound/se/se117_skill160.mp3",
+        "md5": "b52be06bc3765388e295b5a9a23d35da",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/1994ef0d828691586bc72ab4d2e76d77/e2/aa/88/c4/b52be06bc3765388e295b5a9a23d35da.mp3",
+        "type": "mp3",
+        "file": "se117_skill160.mp3"
+      },
+      {
+        "path": "adv/sound/se/se117_skill137.mp3",
+        "md5": "4c505860d2ca8d0b9678b81a6405e3a9",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/7a2ff31747810c21ca2b6941e27380dc/11/2f/4c505860d2ca8d0b9678b81a6405e3a9.mp3",
+        "type": "mp3",
+        "file": "se117_skill137.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se07_metal04.mp3",
+        "md5": "6c1b48c1e3e8a1dd52139f8846be836e",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/84d5b5064efeea4d4ff770547f52b76a/67/0e/49/6c1b48c1e3e8a1dd52139f8846be836e.mp3",
+        "type": "mp3",
+        "file": "se07_metal04.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_52.mp3",
+        "md5": "74f7b7b985707896ba68c649f000fe50",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/b70197f259d16b22ea327ff98c755797/6c/75/cd/dc/74f7b7b985707896ba68c649f000fe50.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_52.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_53.mp3",
+        "md5": "71342fd25121eb737c8bb964bb0bc8ea",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/eb27ee501221390cd0c71cac21208cc3/18/6b/71342fd25121eb737c8bb964bb0bc8ea.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_53.mp3"
+      },
+      {
+        "path": "adv/sound/voice/adu_0187_02_54.mp3",
+        "md5": "739cbd79e3aa4bce95f9e5bddefe5b05",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/39c5eb685d80a3ed2a6f1385af2f3c05/44/9e/2e/76/739cbd79e3aa4bce95f9e5bddefe5b05.mp3",
+        "type": "mp3",
+        "file": "adu_0187_02_54.mp3"
+      },
+      {
+        "path": "/adv/sound/se/se31_impact01.mp3",
+        "md5": "1672d55f6fe6fbda8b956e03a08980a2",
+        "url": "https://gg-resource.crave-saga.net/1.0.0/096ae397309b76a1160cd07fb0aaecb2/c9/ba/be/26/1672d55f6fe6fbda8b956e03a08980a2.mp3",
+        "type": "mp3",
+        "file": "se31_impact01.mp3"
       }
     ]
   }
